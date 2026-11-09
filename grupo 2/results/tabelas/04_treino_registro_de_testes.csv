@@ -1,0 +1,22 @@
+fatia,teste,comparacao,metrica
+treino,bootstrap_sharpe,iMOM-BR contra Ibovespa,diferença de Sharpe
+treino,bootstrap_sharpe,iMOM-BR contra Universo_igual,diferença de Sharpe
+treino,bootstrap_sharpe,iMOM-BR contra Só filtro,diferença de Sharpe
+treino,bootstrap_sharpe,iMOM-BR contra Bruto sem filtro,diferença de Sharpe
+treino,bootstrap_sharpe,iMOM-BR contra Bruto com filtro,diferença de Sharpe
+treino,bootstrap_sharpe,iMOM-BR contra Residual sem filtro,diferença de Sharpe
+treino,alfa_newey_west,iMOM-BR contra Bruto sem filtro,alfa mensal
+treino,alfa_newey_west,Residual sem filtro contra Bruto sem filtro,alfa mensal
+treino,alfa_newey_west,iMOM-BR contra Bruto com filtro,alfa mensal
+treino,alfa_newey_west,iMOM-BR contra Ibovespa,alfa mensal
+treino,alfa_newey_west,iMOM-BR contra Universo_igual,alfa mensal
+treino,fama_macbeth,residual | elegíveis com sinal,coeficiente do posto do sinal
+treino,fama_macbeth,bruto | elegíveis com sinal,coeficiente do posto do sinal
+treino,fama_macbeth,residual e bruto juntos | elegíveis com sinal,coeficiente do posto do sinal
+treino,fama_macbeth,residual | aprovadas,coeficiente do posto do sinal
+treino,fama_macbeth,bruto | aprovadas,coeficiente do posto do sinal
+treino,fama_macbeth,residual e bruto juntos | aprovadas,coeficiente do posto do sinal
+treino,quintis,residual | elegíveis com sinal,Q5 menos Q1
+treino,quintis,bruto | elegíveis com sinal,Q5 menos Q1
+treino,quintis,residual | aprovadas,Q5 menos Q1
+treino,quintis,bruto | aprovadas,Q5 menos Q1

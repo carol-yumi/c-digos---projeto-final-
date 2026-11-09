@@ -1,0 +1,9 @@
+amostra,especificação,sinal,coef_mensal,t_newey_west,meses,candidatas_médias
+elegíveis com sinal,residual,residual,0.02554311276299427,3.9170361060102294,16,130.125
+elegíveis com sinal,bruto,bruto,0.029046489032321477,4.332097782020945,16,130.125
+elegíveis com sinal,residual e bruto juntos,residual,0.01311601630176678,1.2913741657281124,16,130.125
+elegíveis com sinal,residual e bruto juntos,bruto,0.018309044426456627,1.9220323016147478,16,130.125
+aprovadas,residual,residual,0.02727115561232974,2.088296462216316,16,63.875
+aprovadas,bruto,bruto,0.03236206075481768,1.7580029438075655,16,63.875
+aprovadas,residual e bruto juntos,residual,0.014054975839254708,1.9054761671273737,16,63.875
+aprovadas,residual e bruto juntos,bruto,0.019859711877273905,0.8964793425366985,16,63.875

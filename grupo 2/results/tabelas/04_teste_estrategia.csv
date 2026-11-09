@@ -1,0 +1,25 @@
+,teste
+meses,24.0
+retorno acumulado (%),32.89
+retorno anualizado (%),15.28
+"retorno anualizado real, descontado o IPCA (%)",10.26
+volatilidade anual (%),15.37
+Sharpe,0.23
+Sortino,0.35
+Calmar,1.3
+queda máxima (%),-11.79
+melhor mês (%),8.76
+pior mês (%),-5.64
+meses positivos (%),58.33
+VaR 95% mensal (%),-4.57
+CVaR 95% mensal (%),-5.12
+assimetria,0.05
+curtose em excesso,-1.29
+beta contra o Ibovespa,1.1
+correlação com o Ibovespa,0.92
+information ratio contra o Ibovespa,0.87
+tracking error (%),6.25
+captura de alta,1.22
+captura de baixa,1.0
+número médio de ações,21.88
+giro bilateral médio por mês,0.21

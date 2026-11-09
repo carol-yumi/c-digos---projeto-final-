@@ -1,0 +1,25 @@
+,treino
+meses,16.0
+retorno acumulado (%),24.88
+retorno anualizado (%),18.13
+"retorno anualizado real, descontado o IPCA (%)",6.91
+volatilidade anual (%),22.3
+Sharpe,0.68
+Sortino,1.31
+Calmar,0.93
+queda máxima (%),-19.42
+melhor mês (%),13.38
+pior mês (%),-9.45
+meses positivos (%),43.75
+VaR 95% mensal (%),-7.41
+CVaR 95% mensal (%),-9.45
+assimetria,0.27
+curtose em excesso,-0.78
+beta contra o Ibovespa,0.85
+correlação com o Ibovespa,0.83
+information ratio contra o Ibovespa,1.0
+tracking error (%),12.94
+captura de alta,1.21
+captura de baixa,0.76
+número médio de ações,26.31
+giro bilateral médio por mês,0.52

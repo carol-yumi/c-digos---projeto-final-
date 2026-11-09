@@ -1,0 +1,61 @@
+ano,tipo,ação,setor,contribuição (p.p.),meses na carteira
+2020,mais ajudou,ETER3,Bens industriais,5.19,4
+2020,mais ajudou,PRIO3,Petróleo gás e biocombustíveis,2.86,4
+2020,mais ajudou,RAPT4,Bens industriais,1.74,4
+2020,mais ajudou,AXIA3,Utilidade pública,0.79,2
+2020,mais ajudou,SMTO3,Consumo não cíclico,0.69,4
+2020,mais atrapalhou,BEEF3,Consumo não cíclico,-0.89,3
+2020,mais atrapalhou,MBRF3,Consumo não cíclico,-0.74,4
+2020,mais atrapalhou,LAME4,Consumo cíclico,-0.7,4
+2020,mais atrapalhou,ENAT3,Petróleo gás e biocombustíveis,-0.64,2
+2020,mais atrapalhou,KEPL3,Bens industriais,-0.61,4
+2021,mais ajudou,UNIP6,Materiais básicos,3.91,11
+2021,mais ajudou,DEXP3,Materiais básicos,3.11,7
+2021,mais ajudou,ETER3,Bens industriais,2.04,10
+2021,mais ajudou,FESA4,Materiais básicos,1.77,9
+2021,mais ajudou,RANI3,Materiais básicos,1.71,7
+2021,mais atrapalhou,CSNA3,Materiais básicos,-1.27,7
+2021,mais atrapalhou,ROMI3,Bens industriais,-1.25,7
+2021,mais atrapalhou,MGLU3,Consumo cíclico,-0.78,4
+2021,mais atrapalhou,VBBR3,Petróleo gás e biocombustíveis,-0.76,4
+2021,mais atrapalhou,LIGT3,Utilidade pública,-0.67,2
+2022,mais ajudou,KEPL3,Bens industriais,2.34,10
+2022,mais ajudou,LOGN3,Bens industriais,2.2,8
+2022,mais ajudou,VULC3,Consumo cíclico,2.05,9
+2022,mais ajudou,PETR4,Petróleo gás e biocombustíveis,1.65,12
+2022,mais ajudou,STBP3,Bens industriais,1.64,11
+2022,mais atrapalhou,BRKM5,Materiais básicos,-2.67,12
+2022,mais atrapalhou,MBRF3,Consumo não cíclico,-2.07,9
+2022,mais atrapalhou,PTBL3,Bens industriais,-1.71,10
+2022,mais atrapalhou,AZEV4,Bens industriais,-1.6,5
+2022,mais atrapalhou,JBSS3,Consumo não cíclico,-1.38,11
+2023,mais ajudou,PETR4,Petróleo gás e biocombustíveis,4.12,12
+2023,mais ajudou,LEVE3,Consumo cíclico,3.08,12
+2023,mais ajudou,SHUL4,Bens industriais,3.03,9
+2023,mais ajudou,RANI3,Materiais básicos,2.58,12
+2023,mais ajudou,DEXP3,Materiais básicos,1.85,6
+2023,mais atrapalhou,MBRF3,Consumo não cíclico,-1.15,2
+2023,mais atrapalhou,VALE3,Materiais básicos,-1.08,8
+2023,mais atrapalhou,BRKM5,Materiais básicos,-0.79,3
+2023,mais atrapalhou,SLCE3,Consumo não cíclico,-0.69,5
+2023,mais atrapalhou,ENAT3,Petróleo gás e biocombustíveis,-0.65,3
+2024,mais ajudou,STBP3,Bens industriais,2.97,12
+2024,mais ajudou,VLID3,Bens industriais,2.33,7
+2024,mais ajudou,WEGE3,Bens industriais,1.96,12
+2024,mais ajudou,PETR4,Petróleo gás e biocombustíveis,1.01,12
+2024,mais ajudou,FRAS3,Bens industriais,0.86,8
+2024,mais atrapalhou,LJQQ3,Consumo cíclico,-2.34,4
+2024,mais atrapalhou,TFCO4,Consumo cíclico,-2.25,12
+2024,mais atrapalhou,RCSL3,Bens industriais,-1.56,3
+2024,mais atrapalhou,UNIP6,Materiais básicos,-1.47,5
+2024,mais atrapalhou,VIVA3,Consumo cíclico,-1.12,4
+2025,mais ajudou,LAVV3,Consumo cíclico,3.84,9
+2025,mais ajudou,CURY3,Consumo cíclico,3.45,12
+2025,mais ajudou,DIRR3,Consumo cíclico,2.95,12
+2025,mais ajudou,RDOR3,Saúde,2.86,12
+2025,mais ajudou,CEAB3,Consumo cíclico,2.74,3
+2025,mais atrapalhou,BRFS3,Consumo não cíclico,-1.73,7
+2025,mais atrapalhou,STBP3,Bens industriais,-1.25,10
+2025,mais atrapalhou,RADL3,Saúde,-1.19,5
+2025,mais atrapalhou,GOAU4,Materiais básicos,-0.63,5
+2025,mais atrapalhou,SHUL4,Bens industriais,-0.02,3

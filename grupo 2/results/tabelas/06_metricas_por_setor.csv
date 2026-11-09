@@ -1,0 +1,28 @@
+setor,fatia,meses na carteira,peso médio (%),retorno acumulado da subcarteira (%),volatilidade anual (%),Sharpe,contribuição (p.p.),ações diferentes
+Bens industriais,treino,16.0,19.91,93.8,34.79,1.5,11.98,12.0
+Consumo cíclico,treino,16.0,16.73,-8.45,21.8,-0.37,-0.63,14.0
+Materiais básicos,treino,13.0,21.99,49.95,34.6,1.12,11.15,13.0
+Consumo não cíclico,treino,16.0,16.88,0.19,20.16,-0.08,-0.74,11.0
+Utilidade pública,treino,16.0,10.6,-2.51,21.51,-0.16,1.01,10.0
+Petróleo gás e biocombustíveis,treino,13.0,5.67,119.62,74.31,1.23,3.15,4.0
+Saúde,treino,9.0,4.4,-4.32,9.75,,-0.04,6.0
+Tecnologia da informação,treino,13.0,3.08,-18.33,45.54,-0.27,-0.36,2.0
+Comunicações,treino,3.0,0.75,-4.25,44.29,,-0.11,1.0
+Bens industriais,validacao,24.0,29.13,64.41,29.28,0.59,15.61,14.0
+Consumo cíclico,validacao,24.0,10.76,218.09,38.5,1.39,10.96,11.0
+Materiais básicos,validacao,24.0,27.34,-7.98,23.89,-0.56,2.88,13.0
+Consumo não cíclico,validacao,17.0,10.57,-30.59,28.57,-1.17,-4.61,8.0
+Utilidade pública,validacao,19.0,6.85,62.05,19.54,1.06,5.63,6.0
+Petróleo gás e biocombustíveis,validacao,24.0,8.31,96.54,30.25,0.88,4.76,4.0
+Saúde,validacao,22.0,6.45,10.66,26.42,-0.13,1.14,3.0
+Tecnologia da informação,validacao,4.0,0.61,-25.42,51.06,,-0.89,2.0
+Comunicações,validacao,0.0,0.0,,,,0.0,0.0
+Bens industriais,teste,24.0,26.78,44.8,16.49,0.49,9.88,10.0
+Consumo cíclico,teste,24.0,32.34,53.82,27.48,0.49,20.15,11.0
+Materiais básicos,teste,24.0,11.12,-11.08,18.66,-0.87,-2.11,5.0
+Consumo não cíclico,teste,18.0,6.11,5.74,23.03,-0.27,-0.69,5.0
+Utilidade pública,teste,22.0,7.25,19.78,19.02,-0.01,1.83,4.0
+Petróleo gás e biocombustíveis,teste,17.0,7.12,9.0,20.08,-0.15,0.12,3.0
+Saúde,teste,24.0,9.29,15.4,17.63,-0.19,1.65,3.0
+Tecnologia da informação,teste,0.0,0.0,,,,0.0,0.0
+Comunicações,teste,0.0,0.0,,,,0.0,0.0

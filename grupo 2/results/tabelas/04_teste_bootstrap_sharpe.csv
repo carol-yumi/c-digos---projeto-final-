@@ -1,0 +1,7 @@
+,diferenca_observada,limite_inferior,limite_superior,proporcao_menor_ou_igual_a_zero,leitura,papel,acumulado_F_menos_outro
+iMOM-BR contra Ibovespa,0.3829625422702224,-0.14952801440769553,0.8806107816125696,0.086,inconclusivo,principal,0.1281246219931742
+iMOM-BR contra Universo_igual,0.6231089467864966,0.2304116049208572,1.0974793126079,0.0003,a favor,benchmark,0.26429030979566837
+iMOM-BR contra Só filtro,0.0,0.0,0.0,1.0,inconclusivo,versão mais simples,0.0
+iMOM-BR contra Bruto sem filtro,0.6061698391515974,-0.2908453957906842,1.2281712037902792,0.0786,inconclusivo,versão mais simples,0.24219220967197796
+iMOM-BR contra Bruto com filtro,0.0,-2.7755575615628914e-16,2.220446049250313e-16,0.7383,inconclusivo,versão mais simples,0.0
+iMOM-BR contra Residual sem filtro,0.03171826697384969,-0.5652610449510521,1.1056808947124719,0.4616,inconclusivo,versão mais simples,0.010785557614102048
