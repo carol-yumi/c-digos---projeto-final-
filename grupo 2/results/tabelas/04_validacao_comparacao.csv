@@ -1,9 +1,0 @@
-,retorno acumulado (%),retorno anualizado (%),volatilidade anual (%),Sharpe,Sortino,queda máxima (%),information ratio,tracking error (%)
-iMOM-BR,36.57,16.87,20.56,0.28,0.39,-12.58,0.27,12.24
-Residual sem filtro,23.02,10.91,31.31,0.1,0.14,-26.26,0.03,18.71
-Bruto com filtro,40.7,18.62,21.41,0.35,0.48,-14.39,0.38,13.11
-Bruto sem filtro,6.53,3.21,22.12,-0.3,-0.4,-19.15,-0.71,12.56
-Só filtro,30.24,14.12,21.09,0.16,0.22,-14.87,0.09,11.24
-Ibovespa,28.01,13.14,20.56,0.12,0.16,-17.88,,0.0
-Universo_igual,13.02,6.31,27.37,-0.08,-0.12,-21.64,-0.39,12.25
-CDI,27.05,12.71,0.42,,,0.0,-0.12,20.59
