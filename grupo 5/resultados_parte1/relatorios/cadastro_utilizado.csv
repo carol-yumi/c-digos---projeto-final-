@@ -1,0 +1,873 @@
+﻿nome,classe,tipo_ativo,situacao_atual,bolsa,setor_atual,naics_atual,cnpj,ticker,emissor
+3tentos,ON,Ação,ativo,Bovespa,Agro e Pesca,Atividades auxiliares à agricultura,94813102000170,TTEN3,CNPJ:94813102000170
+521 Particip,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,01547749000116,QVUM3B,CNPJ:01547749000116
+524 Particip,ON,Ação,ativo,Bovespa,Energia Elétrica,"Empresa de eletricidade, gás e água",01851771000155,QVQP3,CNPJ:01851771000155
+A P Participacoes,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,02288752000125,APPA3,CNPJ:02288752000125
+Abc Brasil,PN,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,28195667000106,ABCB4,CNPJ:28195667000106
+Abyara,ON,Ação,cancelado,Bovespa,Construção,Construção,07794351000160,ABYA3,CNPJ:07794351000160
+Aco Altona,PN,Ação,ativo,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,82643537000134,EALT4,CNPJ:82643537000134
+Acos Vill,ON,Ação,cancelado,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,60664810000174,AVIL3,CNPJ:60664810000174
+Advanced-Dh,ON,Ação,cancelado,Bovespa,Comércio,Comércio atacadista de bens não duráveis variados,10345009000198,ADHM3,CNPJ:10345009000198
+Aeris,ON,Ação,ativo,Bovespa,Máquinas Indust,"Indústria de motores, turbinas e transmissores de energia",12528708000107,AERI3,CNPJ:12528708000107
+AES Brasil,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",37663076000107,AESB3,CNPJ:37663076000107
+AES Elpa,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",01917705000130,AELP3,CNPJ:01917705000130
+AES Sul,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",02016440000162,AESL3,CNPJ:02016440000162
+AES Tiete,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",02998609000127,GETI3,CNPJ:02998609000127
+Aesoperacoes,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",00194724000113,AESO3,CNPJ:00194724000113
+Aetatis Sec,ON,Ação,cancelado,Bovespa,Fundos,Outros fundos,02808481000191,AETA3,CNPJ:02808481000191
+Afluente,PNA,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",07620094000140,AFLU5,CNPJ:07620094000140
+Afluente T,ON,Ação,ativo,Bovespa,Energia Elétrica,"Empresa de eletricidade, gás e água",10338320000100,AFLT3,CNPJ:10338320000100
+AGconcessoes,ON,Ação,cancelado,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte rodoviário,03601314000138,ANDG3B,CNPJ:03601314000138
+AGF Brasil,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Seguradora,61573796000166,BSGR3,CNPJ:61573796000166
+Agpart,PN,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,04031960000170,CANT4B,CNPJ:04031960000170
+Agra Incorp,ON,Ação,cancelado,Bovespa,Construção,Construção de edifícios residenciais,07698047000110,AGIN3,CNPJ:07698047000110
+Agrale,PN,Ação,cancelado,Bovespa,Máquinas Indust,"Industria de máquinas agrícolas, de construção e mineração",88610324000192,AGRA4,CNPJ:88610324000192
+Agre Emp Imo,ON,Ação,cancelado,Bovespa,Construção,Construção de edifícios residenciais,11040082000114,AGEI3,CNPJ:11040082000114
+Agrenco,ON,Ação,cancelado,Bovespa,Agro e Pesca,Atividades auxiliares à agricultura,08943312000140,AGEN33,CNPJ:08943312000140
+Agribrasil,ON,Ação,cancelado,Bovespa,Agro e Pesca,Agricultura,18483666000103,GRAO3,CNPJ:18483666000103
+Agroceres,PN,Ação,cancelado,Bovespa,Química,Indústria de fertilizantes e pesticidas,56783681000166,SAGR4,CNPJ:56783681000166
+Agrogalaxy,ON,Ação,ativo,Bovespa,Agro e Pesca,Atividades auxiliares à agricultura,21240146000184,AGXY3,CNPJ:21240146000184
+Albarus,ON,Ação,cancelado,Bovespa,Veiculos e peças,Indústria de autopeças,92758085000190,ALBA3,CNPJ:92758085000190
+Alfa Consorc,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,17193806000146,BRGE3,CNPJ:17193806000146
+Alfa Financ,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,17167412000113,CRIV4,CNPJ:17167412000113
+Alfa Holding,PNA,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,17167396000169,RPAD5,CNPJ:17167396000169
+Alfa Invest,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,60770336000165,BRIV4,CNPJ:60770336000165
+Aliansce,ON,Ação,cancelado,Bovespa,Outros,Locadora de imóveis,06082980000103,ALSC3,CNPJ:06082980000103
+Aliperti,PN,Ação,ativo,Bovespa,Siderur & Metalur,Indústria de molas e produtos de arame,61156931000178,APTI4,CNPJ:61156931000178
+All Norte,ON,Ação,cancelado,Bovespa,Transporte Serviç,Transporte ferroviário,24962466000136,FRRN3B,CNPJ:24962466000136
+Alliar,ON,Ação,ativo,Bovespa,Outros,Laboratório de exames médicos,42771949000135,AALR3,CNPJ:42771949000135
+Allied,ON,Ação,ativo,Bovespa,Comércio,Loja de utensílios eletrônicos,20247322000147,ALLD3,CNPJ:20247322000147
+Allis Part,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,08648295000119,SAGP3B,CNPJ:08648295000119
+Allos,ON,Ação,ativo,Bovespa,Outros,Locadora de imóveis,05878397000132,ALOS3,CNPJ:05878397000132
+Alpargatas,PN,Ação,ativo,Bovespa,Textil,Indústria de calçados,61079117000105,ALPA4,CNPJ:61079117000105
+Alper S.A.,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Corretora de seguros,11721921000160,APER3,CNPJ:11721921000160
+Alphaville,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,16811931000100,AVLL3,CNPJ:16811931000100
+Altere Sec,ON,Ação,cancelado,Bovespa,Fundos,Outros fundos,02783423000150,ALTR3,CNPJ:02783423000150
+Altus S/A,ON,Ação,cancelado,Bovespa,Siderur & Metalur,Indústria de produtos de metal,92859974000143,ALTS3,CNPJ:92859974000143
+Alupar,UNT N2,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",08364948000138,ALUP11,CNPJ:08364948000138
+Am Inox BR,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,33390170000189,ACES4,CNPJ:33390170000189
+Amadeo Rossi,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Outras indústrias de produtos de metal,96735105000168,ROSI4,CNPJ:96735105000168
+Amazonia,ON,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,04902979000144,BAZA3,CNPJ:04902979000144
+Amazonia Celular,PND,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02340278000133,TMAC8B,CNPJ:02340278000133
+Ambev S/A,ON,Ação,ativo,Bovespa,Alimentos e Beb,Indústria de bebidas,07526557000100,ABEV3,CNPJ:07526557000100
+Ambipar,ON,Ação,ativo,Bovespa,Outros,"Água, esgoto e outros sistemas",12648266000124,AMBP3,CNPJ:12648266000124
+Amelco,PN,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de computadores e produtos eletrônicos,57009078000194,AMLC4,CNPJ:57009078000194
+America do Sul,PNA,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,61230165000144,BASU5,CNPJ:61230165000144
+Americanas,ON,Ação,ativo,Bovespa,Comércio,Vendas por correio ou meio eletrônico,00776574000156,AMER3,CNPJ:00776574000156
+Amil,ON,Ação,cancelado,Bovespa,Outros,Outros serviços ambulatoriais de saúde,36461242000120,AMIL3,CNPJ:36461242000120
+Ampla Energ,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",33050071000158,CBEE3,CNPJ:33050071000158
+Ampla Invest,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",07809905000156,AMPI3,CNPJ:07809905000156
+Anglo Brazil,ON,Ação,cancelado,Bovespa,Mineração,Mineração de metais,09295979000147,IRON3,CNPJ:09295979000147
+Anhanguera,ON,Ação,cancelado,Bovespa,Outros,Escola de ensino superior,04310392000146,AEDU3,CNPJ:04310392000146
+Anima,ON,Ação,ativo,Bovespa,Outros,Escola de ensino superior,09288252000132,ANIM3,CNPJ:09288252000132
+Antarct Nordeste,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de bebidas,00000000000000,IBAN3,TICKER:IBAN3
+Antarctica MG,PNA,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de bebidas,23536691000148,ITLM5,CNPJ:23536691000148
+Antarctica Paulista,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de bebidas,60522000000183,ANTA3,CNPJ:60522000000183
+Antarctica Pb,PNA,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de bebidas,09259821000111,ANPB5,CNPJ:09259821000111
+Antarctica Pi,PNB,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de bebidas,05234760000187,IBPI6,CNPJ:05234760000187
+Aquatec,PN,Ação,cancelado,Bovespa,Química,Indústria de artigos de limpeza,00000000000000,AQT4,TICKER:AQT4
+Aracruz,ON,Ação,cancelado,Bovespa,Papel e Celulose,"Indústria de papel, celulose e papelão",42157511000161,ARCZ3,CNPJ:42157511000161
+Arandu,ON,Ação,ativo,Bovespa,Comércio,Comércio eletrônico e corretores,14127813000151,ARND3,CNPJ:14127813000151
+Araucaria,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,03616277000131,VDNP3B,CNPJ:03616277000131
+Arcelor BR,ON,Ação,cancelado,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,24315012000173,ARCE3,CNPJ:24315012000173
+Armac,ON,Ação,ativo,Bovespa,Outros,Locação de equipamentos para indústria e comércio,00242184000104,ARML3,CNPJ:00242184000104
+Arno,PN,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de eletrodomésticos,61064978000101,ARNO4,CNPJ:61064978000101
+Arteb,ON,Ação,cancelado,Bovespa,Veiculos e peças,Indústria de autopeças,62291380000118,ATBS3,CNPJ:62291380000118
+Arteris,ON,Ação,cancelado,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte rodoviário,02919555000167,ARTR3,CNPJ:02919555000167
+Arthur Lange,ON,Ação,cancelado,Bovespa,Outros,Manufatura de outros artigos de couro e afins,92189356000133,ARLA3,CNPJ:92189356000133
+Assai,ON,Ação,ativo,Bovespa,Comércio,Loja de departamentos,06057223000171,ASAI3,CNPJ:06057223000171
+Atom Educ,ON,Ação,ativo,Bovespa,Outros,Serviços de apoio à educação,23994857000170,ATED3,CNPJ:23994857000170
+Aura 360,ON,Ação,ativo,Bovespa,Mineração,Mineração de metais,07857093000114,AURA33,CNPJ:07857093000114
+Auren,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",28594234000123,AURE3,CNPJ:28594234000123
+Autometal,ON,Ação,cancelado,Bovespa,Veiculos e peças,Indústria de outros equipamentos de transporte,59104513000195,AUTM3,CNPJ:59104513000195
+Automob,ON,Ação,ativo,Bovespa,Comércio,"Comércio atacadista de máquinas, equipamentos e acessórios",35654688000108,AMOB3,CNPJ:35654688000108
+Axia Energia,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",00001180000126,AXIA3,CNPJ:00001180000126
+Azevedo,ON,Ação,ativo,Bovespa,Construção,Outras construções pesadas e de engenharia civil,61351532000168,AZEV3,CNPJ:61351532000168
+Azt Energia,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,52017473000103,AZTE3,CNPJ:52017473000103
+Azul,ON,Ação,ativo,Bovespa,Transporte Serviç,Transporte aéreo regular,09305994000129,AZUL3,CNPJ:09305994000129
+Azzas 2154,ON,Ação,ativo,Bovespa,Textil,Indústria de calçados,16590234000176,AZZA3,CNPJ:16590234000176
+B Tech Eqi,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de alimentos,60637238000154,BLUT3,CNPJ:60637238000154
+B100 SA,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,52270350000171,B1003,CNPJ:52270350000171
+B3,ON,Ação,ativo,Bovespa,Finanças e Seguros,Bolsa de valores e commodities,09346601000125,B3SA3,CNPJ:09346601000125
+Bahema Equipament,PN,Ação,cancelado,Bovespa,Comércio,Loja de materiais para construção,96832365000151,BHEQ4,CNPJ:96832365000151
+Bahia Sul,PNA,Ação,cancelado,Bovespa,Papel e Celulose,"Indústria de papel, celulose e papelão",00000000000000,BSUL5,TICKER:BSUL5
+Ban Armazens,ON,Ação,cancelado,Bovespa,Outros,Serviço de armazenamento,58128174000114,CBAG3,CNPJ:58128174000114
+Banco Bec,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,07196934000190,BECE3,CNPJ:07196934000190
+Banco BMG,PN,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,61186680000174,BMGB4,CNPJ:61186680000174
+Banco Inter,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,00416968000101,BIDI3,CNPJ:00416968000101
+Banco Pan,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,59285411000113,BPAN4,CNPJ:59285411000113
+Bandeirante Energ,PN,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",02302100000106,EBEN4,CNPJ:02302100000106
+Bandeirantes,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,61071387000161,BBCM4,CNPJ:61071387000161
+Banese,PN,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,13009717000146,BGIP4,CNPJ:13009717000146
+Banespa,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,61411633000187,BESP3,CNPJ:61411633000187
+Banestado,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,76492172000191,BEPA4,CNPJ:76492172000191
+Banestes,ON,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,28127603000178,BEES3,CNPJ:28127603000178
+Banex S/A,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,33550104000129,LOSA3,CNPJ:33550104000129
+Banorte,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,00000000000000,BNNE3,TICKER:BNNE3
+Banpara,ON,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,04913711000108,BPAR3,CNPJ:04913711000108
+Banrisul,PNB,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,92702067000196,BRSR6,CNPJ:92702067000196
+Bardella,PN,Ação,ativo,Bovespa,Máquinas Indust,"Industria de máquinas agrícolas, de construção e mineração",60851615000153,BDLL4,CNPJ:60851615000153
+Baumer,PN,Ação,ativo,Bovespa,Outros,Indústria de equipamentos e materiais para uso médico,61374161000130,BALM4,CNPJ:61374161000130
+Bbmlogistica,ON,Ação,ativo,Bovespa,Transporte Serviç,Transporte rodoviário,01107327000120,BBML3,CNPJ:01107327000120
+BBSeguridade,ON,Ação,ativo,Bovespa,Finanças e Seguros,Seguradora,17344597000194,BBSE3,CNPJ:17344597000194
+BCN,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,60898723000181,BCNA4,CNPJ:60898723000181
+Belapart,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,01608571000176,PBEL3B,CNPJ:01608571000176
+Bematech,ON,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de computadores e produtos eletrônicos,82373077000171,BEMA3,CNPJ:82373077000171
+Bemge,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,00000000000000,BEMG4,TICKER:BEMG4
+Bemobi Tech,ON,Ação,ativo,Bovespa,Software e Dados,Editoras de software,09042817000105,BMOB3,CNPJ:09042817000105
+Bergamo,ON,Ação,cancelado,Bovespa,Outros,Indústria de produtos de madeira compensada e afins,60881364000150,BERG3,CNPJ:60881364000150
+Besc,PNA,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,00000000000000,BSCT5,TICKER:BSCT5
+Beta,PNA,Ação,cancelado,Bovespa,Eletroeletrônicos,"Indústria de equipamentos de navegação, medição, controle e eletromédicos",04381091000103,BTAS5,CNPJ:04381091000103
+Betapart,ON,Ação,ativo,Bovespa,Finanças e Seguros,Atividades relacionadas à intermediação de crédito,02762124000130,BETP3,CNPJ:02762124000130
+BHG,ON,Ação,cancelado,Bovespa,Outros,Outras indústrias da recreação,08723106000125,BHGR3,CNPJ:08723106000125
+Bic Monark,ON,Ação,ativo,Bovespa,Veiculos e peças,Indústria de outros equipamentos de transporte,56992423000190,BMKS3,CNPJ:56992423000190
+Bicbanco,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,07450604000189,BICB4,CNPJ:07450604000189
+Biobras,PN,Ação,cancelado,Bovespa,Química,Indústria de remédios,16921603000166,BIOB4,CNPJ:16921603000166
+Bioma Educ,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,45987245000192,BIED3,CNPJ:45987245000192
+Biomm,ON,Ação,ativo,Bovespa,Outros,Pesquisa científica,04752991000110,BIOM3,CNPJ:04752991000110
+Biosev,ON,Ação,cancelado,Bovespa,Outros,Outras outras indústrias,15527906000136,BSEV3,CNPJ:15527906000136
+Biotoscana,ON,Ação,cancelado,Bovespa,Química,Indústria de remédios,19688956000156,GBIO33,CNPJ:19688956000156
+Blau,ON,Ação,ativo,Bovespa,Química,Indústria de remédios,58430828000160,BLAU3,CNPJ:58430828000160
+Blue Tree,ON,Ação,cancelado,Bovespa,Outros,"Hotel, motel ou similar",66542002000110,CTWR3,CNPJ:66542002000110
+BM&F,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bolsa de valores e commodities,54641030000106,BMEF3,CNPJ:54641030000106
+Boa Safra,ON,Ação,ativo,Bovespa,Agro e Pesca,Atividades auxiliares à agricultura,10807374000177,SOJA3,CNPJ:10807374000177
+Boa Vista,ON,Ação,cancelado,Bovespa,Software e Dados,Outros serviços de Informação,11725176000127,BOAS3,CNPJ:11725176000127
+Boavista,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,00000000000000,BBV4,TICKER:BBV4
+Bombril,PN,Ação,ativo,Bovespa,Química,Indústria de artigos de limpeza,50564053000103,BOBR4,CNPJ:50564053000103
+Bompreco,PN,Ação,cancelado,Bovespa,Comércio,Outras lojas de mercadorias variadas,13004510000189,BPCO4,CNPJ:13004510000189
+Bompreco Bah,ON,Ação,cancelado,Bovespa,Comércio,Loja de departamentos,97422620000150,IDCO3,CNPJ:97422620000150
+Bonaire Part,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Empresa de eletricidade, gás e água",02117801000167,BNPA3B,CNPJ:02117801000167
+Botucatu Tex,PN,Ação,cancelado,Bovespa,Textil,Indústria de roupas de tecido,61087581000135,STRP4,CNPJ:61087581000135
+Bovespa Holding,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bolsa de valores e commodities,00000000000000,BOVH3,TICKER:BOVH3
+BR Ferrovias,ON,Ação,cancelado,Bovespa,Transporte Serviç,Transporte ferroviário,02457269000127,FRPS3,CNPJ:02457269000127
+BR Home,ON,Ação,cancelado,Bovespa,Construção,Construção de edifícios residenciais,11102250000159,HCBR3,CNPJ:11102250000159
+BR Malls Par,ON,Ação,cancelado,Bovespa,Outros,Locadora de imóveis,06977745000191,BRML3,CNPJ:06977745000191
+BR Partners,UNT N2,Ação,ativo,Bovespa,Finanças e Seguros,Outras atividades relacionadas a investimentos financeiros,10739356000103,BRBI11,CNPJ:10739356000103
+BR Pharma,ON,Ação,cancelado,Bovespa,Comércio,Loja de artigos para saúde e cuidados pessoais,11395624000171,BPHA3,CNPJ:11395624000171
+BR Propert,ON,Ação,cancelado,Bovespa,Outros,Locadora de imóveis,06977751000149,BRPR3,CNPJ:06977751000149
+Bradesco,PN,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,60746948000112,BBDC4,CNPJ:60746948000112
+Bradespar,PN,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,03847461000192,BRAP4,CNPJ:03847461000192
+Bradsaude,ON,Ação,ativo,Bovespa,Outros,Consultório odontológico,58119199000151,SAUD3,CNPJ:58119199000151
+Brampac,PN,Ação,cancelado,Bovespa,Outros,Indústria de produtos de plástico,61149084000114,ITPS4,CNPJ:61149084000114
+Brasil,ON,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,00000000000191,BBAS3,CNPJ:00000000000191
+Brasil T Par,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,BRTP3,TICKER:BRTP3
+Brasilagro,ON,Ação,ativo,Bovespa,Agro e Pesca,Agricultura,07628528000159,AGRO3,CNPJ:07628528000159
+Brasilit,ON,Ação,cancelado,Bovespa,Minerais não Met,Indústria de outros produtos de minerais não metálicos,61064838000133,LITS3,CNPJ:61064838000133
+Braskem,PNA,Ação,ativo,Bovespa,Química,Indústria química,42150391000170,BRKM5,CNPJ:42150391000170
+Brasmotor,PN,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de eletrodomésticos,61084984000120,BMTO4,CNPJ:61084984000120
+Brasperola,PNA,Ação,cancelado,Bovespa,Textil,Tecelagens,11703519000152,BPLA5,CNPJ:11703519000152
+Brava,ON,Ação,ativo,Bovespa,Petróleo e Gas,Extração de petróleo e gás,12091809000155,BRAV3,CNPJ:12091809000155
+Brazilian Fr,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,02762113000150,BFRE3,CNPJ:02762113000150
+BRB Banco,ON,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,00000208000100,BSLI3,CNPJ:00000208000100
+BRF SA,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Abatedouros,01838723000127,BRFS3,CNPJ:01838723000127
+Brisanet,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,19796586000170,BRIT3,CNPJ:19796586000170
+Brisanet,ON,Ação,ativo,Bovespa,Telecomunicações,Telecomunicações,04601397000128,BRST3,CNPJ:04601397000128
+Brookfield,ON,Ação,cancelado,Bovespa,Construção,Construção de edifícios residenciais,07700557000184,BISA3,CNPJ:07700557000184
+Brq,ON,Ação,ativo,Bovespa,Software e Dados,Editoras de software,36542025000164,BRQB3,CNPJ:36542025000164
+Brumadinho,PN,Ação,cancelado,Bovespa,Mineração,Extração de minerais não metálicos,52082872000140,BRUM4,CNPJ:52082872000140
+Btgp Banco,UNT,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,30306294000145,BPAC11,CNPJ:30306294000145
+Buettner,ON,Ação,cancelado,Bovespa,Textil,Indústria de roupas de tecido,82981812000120,BUET3,CNPJ:82981812000120
+Bunge Alimentos,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Moinho de grãos,84046101000193,CEVA3,CNPJ:84046101000193
+Bunge Brasil,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de alimentos,61074092000149,MSAN3,CNPJ:61074092000149
+Bunge Fertilizantes,PN,Ação,cancelado,Bovespa,Química,Indústria de fertilizantes e pesticidas,61082822000153,MAHS4,CNPJ:61082822000153
+Cabinda Part,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,04030182000102,CABI3,CNPJ:04030182000102
+Cach Dourada,PN,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",01672223000168,CDOU4,CNPJ:01672223000168
+Cacique,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Moinho de grãos,78588415000115,CIQU4,CNPJ:78588415000115
+Caconde Part,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,04031213000131,CACO3B,CNPJ:04031213000131
+Caemi,PN,Ação,cancelado,Bovespa,Mineração,Mineração de metais,31865728000100,CMET4,CNPJ:31865728000100
+Caf Brasilia,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Moinho de grãos,25869736000121,CAFE4,CNPJ:25869736000121
+Caianda Part,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,04038763000182,CAIA3B,CNPJ:04038763000182
+Caixa Seguri,ON,Ação,ativo,Bovespa,Finanças e Seguros,Seguradora e corretora de seguros,22543331000100,CXSE3,CNPJ:22543331000100
+Cambuci,ON,Ação,ativo,Bovespa,Textil,Indústria de calçados,61088894000108,CAMB3,CNPJ:61088894000108
+Camil,ON,Ação,ativo,Bovespa,Alimentos e Beb,Outras indústrias de alimentos,64904295000103,CAML3,CNPJ:64904295000103
+Capitalpart,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02591787000139,CPTP3B,CNPJ:02591787000139
+Caraiba Met,PNC,Ação,cancelado,Bovespa,Siderur & Metalur,Outras indústrias de produtos de metal,00000000000000,CRBM7,TICKER:CRBM7
+Cargill Fertilizant,PN,Ação,cancelado,Bovespa,Química,Indústria de fertilizantes e pesticidas,61156501000156,SOLO4,CNPJ:61156501000156
+Carrefour BR,ON,Ação,cancelado,Bovespa,Comércio,Loja de departamentos,75315333000109,CRFB3,CNPJ:75315333000109
+Casa Anglo,PN,Ação,cancelado,Bovespa,Comércio,Loja de departamentos,61565511000145,CABR4,CNPJ:61565511000145
+Casan,ON,Ação,ativo,Bovespa,Outros,"Água, esgoto e outros sistemas",82508433000117,CASN3,CNPJ:82508433000117
+Casas Bahia,ON,Ação,ativo,Bovespa,Comércio,Loja de departamentos,33041260065290,BHIA3,CNPJ:33041260065290
+Cba,ON,Ação,ativo,Bovespa,Mineração,Mineração de metais,61409892000173,CBAV3,CNPJ:61409892000173
+CBC Cartucho,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Outras indústrias de produtos de metal,57494031000163,CCTU4,CNPJ:57494031000163
+Cbcc Contact Center,ON,Ação,cancelado,Bovespa,Outros,Outros serviços de apoio,00027742000100,TRIM3,CNPJ:00027742000100
+Cbv Ind Mec,PN,Ação,cancelado,Bovespa,Máquinas Indust,"Industria de máquinas agrícolas, de construção e mineração",00000000000000,CBVI4,TICKER:CBVI4
+CC Des Imob,ON,Ação,cancelado,Bovespa,Construção,Construção de edifícios residenciais,67203208000189,CCIM3,CNPJ:67203208000189
+Ccx Carvao,ON,Ação,cancelado,Bovespa,Mineração,Mineração de metais,07950674000104,CCXC3,CNPJ:07950674000104
+Cea Modas,ON,Ação,ativo,Bovespa,Comércio,Loja de roupas,45242914000105,CEAB3,CNPJ:45242914000105
+Ceb,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",00070698000111,CEBR3,CNPJ:00070698000111
+Cedro,PN,Ação,ativo,Bovespa,Textil,Tecelagens,17245234000100,CEDO4,CNPJ:17245234000100
+Ceee-D,ON,Ação,ativo,Bovespa,Energia Elétrica,"Empresa de eletricidade, gás e água",08467115000100,CEED3,CNPJ:08467115000100
+Ceee-G,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",39881421000104,CGEE3,CNPJ:39881421000104
+Ceee-T,PN,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",92715812000131,EEEL4,CNPJ:92715812000131
+Ceg,ON,Ação,ativo,Bovespa,Petróleo e Gas,Distribuição de gás natural,33938119000169,CEGR3,CNPJ:33938119000169
+Celesc,PN,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",83878892000155,CLSC4,CNPJ:83878892000155
+Celg,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",01543032000104,CGOS3,CNPJ:01543032000104
+Celgpar,ON,Ação,ativo,Bovespa,Energia Elétrica,"Empresa de eletricidade, gás e água",08560444000193,GPAR3,CNPJ:08560444000193
+Celm,ON,Ação,cancelado,Bovespa,Outros,Indústria de equipamentos e materiais para uso médico,61086823000176,CELM3,CNPJ:61086823000176
+Celpe,PNA,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",10835932000108,CEPE5,CNPJ:10835932000108
+Cemepe,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,93828986000173,MAPT3,CNPJ:93828986000173
+Cemig,PN,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",17155730000164,CMIG4,CNPJ:17155730000164
+Cent Açu,ON,Ação,cancelado,Bovespa,Mineração,Atividades auxiliares à mineração,08835366000192,CTLG3,CNPJ:08835366000192
+Cent Min-Rio,ON,Ação,cancelado,Bovespa,Mineração,Mineração de metais,07949970000187,CTMI3,CNPJ:07949970000187
+Cesp,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",60933603000178,CESP3,CNPJ:60933603000178
+Ceterp,PN,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00956274000159,CETE4,CNPJ:00956274000159
+Cetip,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Outras atividades relacionadas a investimentos financeiros,09358105000191,CTIP3,CNPJ:09358105000191
+Ceval Part,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,00000000000000,CVPT3,TICKER:CVPT3
+Chapeco,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Abatedouros,83296889000123,CHAP3,CNPJ:83296889000123
+Chiarelli,ON,Ação,cancelado,Bovespa,Minerais não Met,Indústria de produtos de cerâmica e refratários,52736840000110,CCHI3,CNPJ:52736840000110
+Cia Hering,ON,Ação,cancelado,Bovespa,Textil,Indústria de roupas de malha,78876950000171,HGTX3,CNPJ:78876950000171
+Cia Siderurgica Paulista Cosipa (Antiga),PNB,Ação,cancelado,Bovespa,-,-,,CSIP6,TICKER:CSIP6
+Cica,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de laticínios,00000000000000,CIC4,TICKER:CIC4
+Cielo,ON,Ação,cancelado,Bovespa,Software e Dados,"Serviços de processamento de dados, hospedagem e outros serviços relacionados",01027058000191,CIEL3,CNPJ:01027058000191
+Cim Itau,ON,Ação,cancelado,Bovespa,Minerais não Met,Indústria de cimento e produtos de concreto,24030025000104,ICPI3,CNPJ:24030025000104
+Cimaf,ON,Ação,cancelado,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,61074506000130,MAFE3,CNPJ:61074506000130
+Cimob Partic,ON,Ação,cancelado,Bovespa,Construção,Construção de edifícios residenciais,34177279000103,GAFP3,CNPJ:34177279000103
+Cims,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,00272185000193,CMSA3,CNPJ:00272185000193
+Cinesystem,ON,Ação,cancelado,Bovespa,Outros,Indústria cinematográfica,07437016000105,CNSY3,CNPJ:07437016000105
+Clarion,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Moinho de grãos,24956666000186,CLAN4,CNPJ:24956666000186
+Clearsale,ON,Ação,cancelado,Bovespa,Comércio,Comércio eletrônico e corretores,03802115000198,CLSA3,CNPJ:03802115000198
+Cma Part,PN,Ação,cancelado,Bovespa,Outros,TV a cabo,31959356000180,CMMA4,CNPJ:31959356000180
+Coari Part,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,04030087000109,COAR3,CNPJ:04030087000109
+Cobrasma,ON,Ação,cancelado,Bovespa,Veiculos e peças,Indústria de equipamento ferroviário,61080313000191,CBMA3,CNPJ:61080313000191
+Coelba,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",15139629000194,CEEB3,CNPJ:15139629000194
+Coelce,PNA,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",07047251000170,COCE5,CNPJ:07047251000170
+Cofap,PN,Ação,cancelado,Bovespa,Veiculos e peças,Indústria de autopeças,57500001000112,FAPC4,CNPJ:57500001000112
+Cogna ON,ON,Ação,ativo,Bovespa,Outros,Escola de ensino superior,02800026000140,COGN3,CNPJ:02800026000140
+Coinvest,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,61460762000165,IVIL4,CNPJ:61460762000165
+Coldex,PN,Ação,cancelado,Bovespa,Máquinas Indust,"Industria de máquinas agrícolas, de construção e mineração",61189601000189,CLDX4,CNPJ:61189601000189
+Comerc,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",25369840000157,COMR3,CNPJ:25369840000157
+Comgas,PNA,Ação,ativo,Bovespa,Petróleo e Gas,Distribuição de gás natural,61856571000117,CGAS5,CNPJ:61856571000117
+Company,ON,Ação,cancelado,Bovespa,Construção,Construção de edifícios residenciais,58877812000108,CPNY3,CNPJ:58877812000108
+Compass Gas,ON,Ação,ativo,Bovespa,Petróleo e Gas,Distribuição de gás natural,21389501000181,PASS3,CNPJ:21389501000181
+Conc Rio Ter,ON,Ação,ativo,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte rodoviário,00938574000105,CRTE3,CNPJ:00938574000105
+Confab,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,60882628000190,CNFB4,CNPJ:60882628000190
+Const A Lind,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,61022042000118,CALI3,CNPJ:61022042000118
+Const Beter,PNB,Ação,cancelado,Bovespa,Construção,Outras construções pesadas e de engenharia civil,61192373000104,COBE6B,CNPJ:61192373000104
+Contax,ON,Ação,ativo,Bovespa,Outros,Serviços de apoio a empresas,04032433000180,CTAX3,CNPJ:04032433000180
+Continental,PN,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de eletrodomésticos,60736279000106,CTLU4,CNPJ:60736279000106
+Copas,PN,Ação,cancelado,Bovespa,Química,Indústria de fertilizantes e pesticidas,61087912000137,COPA4,CNPJ:61087912000137
+Copasa,ON,Ação,ativo,Bovespa,Outros,"Água, esgoto e outros sistemas",17281106000103,CSMG3,CNPJ:17281106000103
+Copel,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",76483817000120,CPLE3,CNPJ:76483817000120
+Copesul,ON,Ação,cancelado,Bovespa,Química,Indústria química básica,88948492000192,CPSL3,CNPJ:88948492000192
+Cor Ribeiro,PN,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,15101405000193,CORR4,CNPJ:15101405000193
+Corbetta,PN,Ação,cancelado,Bovespa,Outros,Curtumes,92670959000152,CBTA4,CNPJ:92670959000152
+Cosan,ON,Ação,ativo,Bovespa,Petróleo e Gas,Comércio atacadista de petróleo e produtos de petróleo,50746577000115,CSAN3,CNPJ:50746577000115
+Cosan Log,ON,Ação,cancelado,Bovespa,Transporte Serviç,Transporte ferroviário,17346997000139,RLOG3,CNPJ:17346997000139
+Cosan Ltd,ON A,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de açúcar e produtos de confeitaria,08887330000152,CZLT33,CNPJ:08887330000152
+Cosern,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",08324196000181,CSRN3,CNPJ:08324196000181
+Cosipa,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,02790893000141,CSPC4,CNPJ:02790893000141
+Coteminas,PN,Ação,cancelado,Bovespa,Textil,Indústria de roupas de tecido,22677520000176,CTNM4,CNPJ:22677520000176
+CPFL Energia,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",02429144000193,CPFE3,CNPJ:02429144000193
+CPFL Geracao,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",03953509000147,CPFG3,CNPJ:03953509000147
+CPFL Piratininga,PN,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",04172213000151,CPFP4,CNPJ:04172213000151
+CPFL Renovav,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",08439659000150,CPRE3,CNPJ:08439659000150
+Cremer,ON,Ação,cancelado,Bovespa,Outros,Indústria de equipamentos e materiais para uso médico,82641325000118,CREM3,CNPJ:82641325000118
+Cremer (Antiga),PN,Ação,cancelado,Bovespa,Textil,Tecelagens,82641325000118,CREM4-old,CNPJ:82641325000118
+Cristal,PNA,Ação,ativo,Bovespa,Química,Indústria química,15115504000124,CRPG5,CNPJ:15115504000124
+Crt Celular,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,CRTP3,TICKER:CRTP3
+Crt Ciargtelec,PNA,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,92794486000103,CRGT5,CNPJ:92794486000103
+Cruzeiro Edu,ON,Ação,ativo,Bovespa,Outros,Escola de ensino superior,62984091000102,CSED3,CNPJ:62984091000102
+Cruzeiro Sul,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,62136254000199,CZRS4,CNPJ:62136254000199
+Csn Mineracao,ON,Ação,ativo,Bovespa,Mineração,Mineração de metais,08902291000115,CMIN3,CNPJ:08902291000115
+Csu Digital,ON,Ação,ativo,Bovespa,Outros,Serviços de apoio a empresas,01896779000138,CSUD3,CNPJ:01896779000138
+Ctc S.A.,ON,Ação,ativo,Bovespa,Agro e Pesca,Agricultura,06981381000113,CTCA3,CNPJ:06981381000113
+Cury S/A,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,08797760000183,CURY3,CNPJ:08797760000183
+Cvc Brasil,ON,Ação,ativo,Bovespa,Transporte Serviç,Transporte turístico,10760260000119,CVCB3,CNPJ:10760260000119
+Cyrela Realt,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,73178600000118,CYRE3,CNPJ:73178600000118
+Czarina,PN,Ação,cancelado,Bovespa,Textil,Indústria de calçados,96735006000186,CZAR4,CNPJ:96735006000186
+D F Vasconc,PN,Ação,cancelado,Bovespa,Outros,Outras outras indústrias,61482725000158,DFVA4,CNPJ:61482725000158
+D1000vfarma,ON,Ação,ativo,Bovespa,Comércio,Loja de artigos para saúde e cuidados pessoais,12108897000150,DMVF3,CNPJ:12108897000150
+Daleth Part,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02312604000107,OPDL3B,CNPJ:02312604000107
+Dasa,ON,Ação,ativo,Bovespa,Outros,Laboratório de exames médicos,61486650000183,DASA3,CNPJ:61486650000183
+Datasul,ON,Ação,cancelado,Bovespa,Software e Dados,"Serviços de processamento de dados, hospedagem e outros serviços relacionados",03114361000157,DSUL3,CNPJ:03114361000157
+Daycoval,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,62232889000190,DAYC4,CNPJ:62232889000190
+Desktopsigma,ON,Ação,ativo,Bovespa,Telecomunicações,Operadoras de telecomunicações a cabo,08170849000115,DESK3,CNPJ:08170849000115
+Dexco,ON,Ação,ativo,Bovespa,Outros,Indústria de móveis e afins,97837181000147,DXCO3,CNPJ:97837181000147
+Dexxos Par,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,02193750000152,DEXP3,CNPJ:02193750000152
+DHB,PN,Ação,cancelado,Bovespa,Veiculos e peças,Indústria de autopeças,92825900000196,DHBI4,CNPJ:92825900000196
+Dijon,PN,Ação,cancelado,Bovespa,Outros,Outros serviços (exceto administração pública),40173064000109,DJON4,CNPJ:40173064000109
+Dimed,ON,Ação,ativo,Bovespa,Comércio,Loja de artigos para saúde e cuidados pessoais,92665611000177,PNVL3,CNPJ:92665611000177
+Dinamica Ene,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",07659538000151,DNEN3B,CNPJ:07659538000151
+Direcional,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,16614075000100,DIRR3,CNPJ:16614075000100
+Dixie Toga,PN,Ação,cancelado,Bovespa,Outros,Indústria de produtos de plástico,60394723000144,DXTG4,CNPJ:60394723000144
+Dmfinanceira,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,91669747000192,DMFN3,CNPJ:91669747000192
+Doc Imbituba,ON,Ação,cancelado,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte aquático,84208123000102,IMBI3,CNPJ:84208123000102
+Docas,PN,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,33433665000148,DOCA4,CNPJ:33433665000148
+Dohler,PN,Ação,ativo,Bovespa,Textil,Indústria de roupas de tecido,84683408000103,DOHL4,CNPJ:84683408000103
+Dommo,ON,Ação,cancelado,Bovespa,Petróleo e Gas,Extração de petróleo e gás,,DMMO3,TICKER:DMMO3
+Dommo Empr,ON,Ação,cancelado,Bovespa,Outros,Atividades relacionadas a imóveis,04034792000176,CALA3B,CNPJ:04034792000176
+Domus Populi,ON,Ação,cancelado,Bovespa,Minerais não Met,Indústria de cimento e produtos de concreto,11858621000127,DOMO3,CNPJ:11858621000127
+Dotz SA,ON,Ação,ativo,Bovespa,Outros,Outros serviços de apoio,18174270000184,DOTZ3,CNPJ:18174270000184
+Douat Textil,ON,Ação,cancelado,Bovespa,Textil,Indústria de tecidos para móveis,82610726000100,ARPS3,CNPJ:82610726000100
+Dtcom Direct,ON,Ação,ativo,Bovespa,Outros,Outros tipos de escolas,03303999000136,DTCY3,CNPJ:03303999000136
+Dufry AG,ON,Ação,cancelado,Bovespa,Comércio,Outras lojas de mercadorias variadas,11423623000193,DAGB33,CNPJ:11423623000193
+Dufrybras,ON,Ação,cancelado,Bovespa,Comércio,Outras lojas de mercadorias variadas,00000000000000,DUFB11,TICKER:DUFB11
+Duratex-Old,ON,Ação,cancelado,Bovespa,Outros,Outras indústrias de artigos de madeira,00000000000000,DURA3,TICKER:DURA3
+Ecisa,ON,Ação,cancelado,Bovespa,Construção,Construção de edifícios não residenciais,33261561000101,ECIS3,CNPJ:33261561000101
+Economatica,ON,Ação,ativo,Bovespa,Software e Dados,"Serviços de processamento de dados, hospedagem e outros serviços relacionados",26345998000150,ECOM3,CNPJ:26345998000150
+Economico,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,15124464000187,BCE4,CNPJ:15124464000187
+Ecorodovias,ON,Ação,ativo,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte rodoviário,04149454000180,ECOR3,CNPJ:04149454000180
+Edn,PNA,Ação,cancelado,Bovespa,Química,Indústria química básica,13565502000101,EDNE5,CNPJ:13565502000101
+Eldorado,ON,Ação,cancelado,Bovespa,Outros,"Hotel, motel ou similar",62791116000143,ASSM3,CNPJ:62791116000143
+Electrolux,PN,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de eletrodomésticos,76487032000125,REPA4,CNPJ:76487032000125
+Elekeiroz,ON,Ação,cancelado,Bovespa,Química,Indústria química básica,13788120000147,ELEK3,CNPJ:13788120000147
+Elektro,PN,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",02328280000197,EKTR4,CNPJ:02328280000197
+Eletromidia,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,09347516000181,ELMD3,CNPJ:09347516000181
+Eletron,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,00514998000142,ETRO3B,CNPJ:00514998000142
+Eletropar,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",01104937000170,LIPR3,CNPJ:01104937000170
+Eletropaulo,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",61695227000193,ELPL3,CNPJ:61695227000193
+Eletropaulo (Old),PNB,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",00000000000000,ELPL11-old,TICKER:ELPL11-old
+Eleva,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Abatedouros,92776665000100,ELEV3,CNPJ:92776665000100
+Elevad Atlas,ON,Ação,cancelado,Bovespa,Máquinas Indust,Indústria de máquinas industriais,00028986000108,ELAT3,CNPJ:00028986000108
+Eluma,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Indústria de ferramentas de metal não motorizadas e cutelaria,00000000000000,ELUM4,TICKER:ELUM4
+Emae,PN,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",02302101000142,EMAE4,CNPJ:02302101000142
+Embpar S/A,ON,Ação,ativo,Bovespa,Comércio,Concessionárias de outros veículos motorizados,42331462000131,EPAR3,CNPJ:42331462000131
+Embraco,PN,Ação,cancelado,Bovespa,Máquinas Indust,Indústria de equipamentos de refrigeração,00000000000000,EBCO4,TICKER:EBCO4
+Embraer,ON,Ação,ativo,Bovespa,Veiculos e peças,Indústria de equipamentos aeroespacias,07689002000189,EMBJ3,CNPJ:07689002000189
+Embratel Part,PN,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02558124000112,EBTP4,CNPJ:02558124000112
+Enauta Part,ON,Ação,cancelado,Bovespa,Petróleo e Gas,Extração de petróleo e gás,11669021000110,ENAT3,CNPJ:11669021000110
+Encorpar,PN,Ação,cancelado,Bovespa,Textil,Indústria de fios,01971614000183,ECPR4,CNPJ:01971614000183
+Energias BR,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",03983431000103,ENBR3,CNPJ:03983431000103
+Energisa,UNT N2,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",00864214000106,ENGI11,CNPJ:00864214000106
+Energisa Mt,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",03467321000199,ENMT3,CNPJ:03467321000199
+Enersul,PNB,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",15413826000150,ENER6,CNPJ:15413826000150
+Eneva,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",04423567000121,ENEV3,CNPJ:04423567000121
+Engesa,PNA,Ação,cancelado,Bovespa,Siderur & Metalur,Outras indústrias de produtos de metal,00000000000000,ENG5,TICKER:ENG5
+Engie Brasil,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",02474103000119,EGIE3,CNPJ:02474103000119
+Enjoei,ON,Ação,ativo,Bovespa,Comércio,Vendas por correio ou meio eletrônico,16922038000151,ENJU3,CNPJ:16922038000151
+Enxuta,PN,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de eletrodomésticos,88611975000105,TRIC4,CNPJ:88611975000105
+Epte,PN,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",00000000000000,EPTE4,TICKER:EPTE4
+Eqtl Maranhao,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",06272793000184,EQMA3B,CNPJ:06272793000184
+Eqtl Para,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",04895728000180,EQPA3,CNPJ:04895728000180
+Equatorial,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",03220438000173,EQTL3,CNPJ:03220438000173
+Ericsson,PN,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de equipamentos de comunicação,33067745000127,ERIC4,CNPJ:33067745000127
+Escelsa,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",28152650000171,ESCE3,CNPJ:28152650000171
+Espacolaser,ON,Ação,ativo,Bovespa,Outros,Outros serviços ambulatoriais de saúde,26659061000159,ESPA3,CNPJ:26659061000159
+Est Piaui,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,00000000000000,BPIA3,TICKER:BPIA3
+Estapar,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,60537263000166,ALPK3,CNPJ:60537263000166
+Estrela,PN,Ação,ativo,Bovespa,Outros,Outras outras indústrias,61082004000150,ESTR4,CNPJ:61082004000150
+Eternit,ON,Ação,ativo,Bovespa,Minerais não Met,Indústria de outros produtos de minerais não metálicos,61092037000181,ETER3,CNPJ:61092037000181
+Eucatex,PN,Ação,ativo,Bovespa,Outros,Indústria de produtos de madeira compensada e afins,56643018000166,EUCA4,CNPJ:56643018000166
+Eurofarma SA,ON,Ação,ativo,Bovespa,Comércio,Loja de artigos para saúde e cuidados pessoais,61190096000192,EUFA3,CNPJ:61190096000192
+Even,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,43470988000165,EVEN3,CNPJ:43470988000165
+Evora,PN,Ação,cancelado,Bovespa,Outros,Indústria de produtos de plástico,91820068000172,PTPA4,CNPJ:91820068000172
+Excelsior,PN,Ação,ativo,Bovespa,Alimentos e Beb,Outras indústrias de alimentos,95426862000197,BAUH4,CNPJ:95426862000197
+Eztec,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,08312229000173,EZTC3,CNPJ:08312229000173
+F Cataguazes,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",19527639000158,FLCL3,CNPJ:19527639000158
+F Guimaraes,PN,Ação,cancelado,Bovespa,Textil,Tecelagens,33470022000174,FGUI4,CNPJ:33470022000174
+Fab C Renaux,ON,Ação,cancelado,Bovespa,Textil,Tecelagens,82981671000145,FTRX3,CNPJ:82981671000145
+Fasa,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,00359742000108,FASA3,CNPJ:00359742000108
+Fer Demellot,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Indústria de produtos de metal,61196564000136,FLBR4,CNPJ:61196564000136
+Fer Heringer,ON,Ação,ativo,Bovespa,Química,Indústria de fertilizantes e pesticidas,22266175000188,FHER3,CNPJ:22266175000188
+Ferbasa,PN,Ação,ativo,Bovespa,Siderur & Metalur,Fundição,15141799000103,FESA4,CNPJ:15141799000103
+Ferro Ligas,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Fundição,57487142000142,CPFL4,CNPJ:57487142000142
+Ferti Serrana,PN,Ação,cancelado,Bovespa,Química,Indústria de fertilizantes e pesticidas,00000000000000,FTSE4,TICKER:FTSE4
+Fertibras,PN,Ação,cancelado,Bovespa,Química,Indústria de fertilizantes e pesticidas,61442109000173,FBRA4,CNPJ:61442109000173
+Fertisul,PN,Ação,cancelado,Bovespa,Química,Indústria de fertilizantes e pesticidas,00000000000000,FTSU4,TICKER:FTSU4
+Fertiza,PN,Ação,cancelado,Bovespa,Química,Indústria de fertilizantes e pesticidas,00000000000000,FTZA4,TICKER:FTZA4
+Fibam,PN,Ação,cancelado,Bovespa,Siderur & Metalur,"Indústria de parafusos, arruelas, porcas e produtos torneados",61410395000195,FBMC4,CNPJ:61410395000195
+Fibria,ON,Ação,cancelado,Bovespa,Papel e Celulose,"Indústria de papel, celulose e papelão",60643228000121,FIBR3,CNPJ:60643228000121
+Fica,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,07820907000146,FIEI3,CNPJ:07820907000146
+Fleury,ON,Ação,ativo,Bovespa,Outros,Laboratório de exames médicos,60840055000131,FLRY3,CNPJ:60840055000131
+Flex S/A,ON,Ação,cancelado,Bovespa,Outros,Outros serviços de apoio,10851805000100,FLEX3,CNPJ:10851805000100
+Fluminense Refriger,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de bebidas,31456338000186,CFLU4,CNPJ:31456338000186
+Focus ON,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",26735020000102,POWE3,CNPJ:26735020000102
+Fornodeminas,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Outras indústrias de alimentos,03870455000580,FOMS3,CNPJ:03870455000580
+Francesbras,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,00000000000000,BFB3,TICKER:BFB3
+Frangosul,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Abatedouros,91374561000106,FGOS4,CNPJ:91374561000106
+Fras-Le,ON,Ação,ativo,Bovespa,Veiculos e peças,Indústria de autopeças,88610126000129,FRAS3,CNPJ:88610126000129
+Frigobras,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Abatedouros,00000000000000,FRI4,TICKER:FRI4
+Futuretel,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,02465783000104,FTRT3B,CNPJ:02465783000104
+G2d Invest,A,Ação,ativo,Bovespa,Finanças e Seguros,Corretora de títulos e commodities,38307135000177,G2DI33,CNPJ:38307135000177
+Gafisa,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,01545826000107,GFSA3,CNPJ:01545826000107
+Gama Part,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,02796775000140,OPGM3,CNPJ:02796775000140
+Gazola,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Forjarias e estamparias,88611983000143,GAZO4,CNPJ:88611983000143
+Generalshopp,ON,Ação,ativo,Bovespa,Outros,Locadora de imóveis,08764621000153,GSHP3,CNPJ:08764621000153
+Geodex,PND,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02808710000178,AMRI8,CNPJ:02808710000178
+Ger Paranap,PN,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",02998301000181,GEPA4,CNPJ:02998301000181
+Geral de Concreto,PN,Ação,cancelado,Bovespa,Construção,"Fundação, estruturas e trabalhos em exteriores",60405446000128,EMXS4,CNPJ:60405446000128
+Gerdau,PN,Ação,ativo,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,33611500000119,GGBR4,CNPJ:33611500000119
+Gerdau Met,PN,Ação,ativo,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,92690783000109,GOAU4,CNPJ:92690783000109
+Getnet BR,ON,Ação,cancelado,Bovespa,Software e Dados,"Serviços de processamento de dados, hospedagem e outros serviços relacionados",10440482000154,GETT3,CNPJ:10440482000154
+Glasslite,PN,Ação,cancelado,Bovespa,Outros,Outras outras indústrias,61338042000121,GLAS4,CNPJ:61338042000121
+Gol,PN,Ação,cancelado,Bovespa,Transporte Serviç,Transporte aéreo regular,06164253000187,GOLL54,CNPJ:06164253000187
+GP Invest,A,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,07857850000150,GPIV33,CNPJ:07857850000150
+Gps,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,09229201000130,GGPS3,CNPJ:09229201000130
+Granja Faria,ON,Ação,ativo,Bovespa,Agro e Pesca,Criação de aves e ovos,81616807000155,EGGY3,CNPJ:81616807000155
+Granoleo,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Moinho de grãos,88925029000125,GRNL4,CNPJ:88925029000125
+Grazziotin,PN,Ação,ativo,Bovespa,Comércio,Loja de roupas,92012467000170,CGRA4,CNPJ:92012467000170
+Grendene,ON,Ação,ativo,Bovespa,Textil,Indústria de calçados,89850341000160,GRND3,CNPJ:89850341000160
+Grucai,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,01258945000170,GRUC3,CNPJ:01258945000170
+Grupo Mateus,ON,Ação,ativo,Bovespa,Comércio,Loja de departamentos,24990777000109,GMAT3,CNPJ:24990777000109
+Grupo Salta,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,17765891000170,SALT3,CNPJ:17765891000170
+Grupo Sbf,ON,Ação,ativo,Bovespa,Comércio,Loja de artigos esportivos e instrumentos musicais,13217485000111,SBFG3,CNPJ:13217485000111
+Grupo Soma,ON,Ação,cancelado,Bovespa,Comércio,Comércio atacadista de roupas,10285590000108,SOMA3,CNPJ:10285590000108
+Grupo Toky,ON,Ação,ativo,Bovespa,Comércio,Vendas por correio ou meio eletrônico,31553627000101,TOKY3,CNPJ:31553627000101
+Gtd Partic,PN,Ação,cancelado,Bovespa,Energia Elétrica,"Empresa de eletricidade, gás e água",00649881000176,GTDP4B,CNPJ:00649881000176
+Guarani,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de açúcar e produtos de confeitaria,47080619000117,ACGU3,CNPJ:47080619000117
+GVT Holding,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,03420904000164,GVTT3,CNPJ:03420904000164
+Habitasul,PNA,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,87762563000103,HBTS5,CNPJ:87762563000103
+Haga S/A,PN,Ação,ativo,Bovespa,Siderur & Metalur,Indústria de ferragens,30540991000166,HAGA4,CNPJ:30540991000166
+Hapvida,ON,Ação,ativo,Bovespa,Outros,Serviços ambulatoriais de saúde,05197443000138,HAPV3,CNPJ:05197443000138
+Harpia Part,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,13407573000186,HPIA3,CNPJ:13407573000186
+Hbr Realty,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,14785152000151,HBRE3,CNPJ:14785152000151
+Helbor,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,49263189000102,HBOR3,CNPJ:49263189000102
+Hercules,PN,Ação,ativo,Bovespa,Siderur & Metalur,Indústria de ferramentas de metal não motorizadas e cutelaria,92749225000163,HETA4,CNPJ:92749225000163
+Hering Text,PN,Ação,cancelado,Bovespa,Textil,Outras indústrias de tecidos,00000000000000,HGTX4-old,TICKER:HGTX4-old
+Hidrovias,ON,Ação,ativo,Bovespa,Transporte Serviç,Transporte fluvial,12648327000153,HBSA3,CNPJ:12648327000153
+Hmobi S/A,ON,Ação,ativo,Bovespa,Outros,Serviço de armazenamento,40159947000164,HMOB3,CNPJ:40159947000164
+Hoteis Othon,PN,Ação,ativo,Bovespa,Outros,"Hotel, motel ou similar",33200049000147,HOOT4,CNPJ:33200049000147
+HSBC Seguros,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Seguradora,76538446000136,BSEG4,CNPJ:76538446000136
+Hypera,ON,Ação,ativo,Bovespa,Outros,Outras outras indústrias,02932074000191,HYPE3,CNPJ:02932074000191
+Ienergia,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",02225714000123,IENG3,CNPJ:02225714000123
+IGB S/A,ON,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de equipamentos de áudio e vídeo,43185362000107,IGBR3,CNPJ:43185362000107
+Igua SA,ON,Ação,ativo,Bovespa,Outros,"Água, esgoto e outros sistemas",08159965000133,IGSN3,CNPJ:08159965000133
+Iguacu Cafe,PNB,Ação,cancelado,Bovespa,Alimentos e Beb,Moinho de grãos,76255926000190,IGUA6,CNPJ:76255926000190
+Iguatemi,ON,Ação,cancelado,Bovespa,Outros,Locadora de imóveis,51218147000193,IGTA3,CNPJ:51218147000193
+Iguatemi SA,UNT,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,60543816000193,IGTI11,CNPJ:60543816000193
+Ihpardini,ON,Ação,cancelado,Bovespa,Outros,Laboratório de exames médicos,19378769000176,PARD3,CNPJ:19378769000176
+Imc Holdings,ON,Ação,cancelado,Bovespa,Comércio,Loja de comida e bebida,08936792000112,IMCH3,CNPJ:08936792000112
+Imc S/A,ON,Ação,ativo,Bovespa,Comércio,Loja de comida e bebida,17314329000120,MEAL3,CNPJ:17314329000120
+Imperio,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Abatedouros,33123118000166,IMPE4,CNPJ:33123118000166
+Inbrac,PN,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de computadores e produtos eletrônicos,61081972000142,IBRC4,CNPJ:61081972000142
+Inc SA,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,09611768000176,INNC3,CNPJ:09611768000176
+Ind Cataguas,ON,Ação,ativo,Bovespa,Textil,Tecelagens,19526748000150,CATA3,CNPJ:19526748000150
+Indusval,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,61024352000171,IDVL4,CNPJ:61024352000171
+Inepar,ON,Ação,ativo,Bovespa,Outros,Outras outras indústrias,76627504000106,INEP3,CNPJ:76627504000106
+Infracomm,ON,Ação,ativo,Bovespa,Comércio,Comércio eletrônico e corretores,38456921000136,IFCM3,CNPJ:38456921000136
+Intelbras,ON,Ação,ativo,Bovespa,Eletroeletrônicos,Indústria de equipamentos de comunicação,82901000000127,INTB3,CNPJ:82901000000127
+Intermedica,ON,Ação,cancelado,Bovespa,Outros,Laboratório de exames médicos,19853511000184,GNDI3,CNPJ:19853511000184
+Invepar,ON,Ação,ativo,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte rodoviário,03758318000124,IVPR3B,CNPJ:03758318000124
+Invest Bemge,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,01548981000179,FIGE3,CNPJ:01548981000179
+Iochp-Maxion,ON,Ação,ativo,Bovespa,Veiculos e peças,Indústria de autopeças,61156113000175,MYPK3,CNPJ:61156113000175
+Ipiranga Dis,PN,Ação,cancelado,Bovespa,Petróleo e Gas,Posto de gasolina,92689256000176,DPPI4,CNPJ:92689256000176
+Ipiranga Pet,ON,Ação,cancelado,Bovespa,Petróleo e Gas,Comércio atacadista de petróleo e produtos de petróleo,33069766000181,PTIP3,CNPJ:33069766000181
+Ipiranga Ref,PN,Ação,cancelado,Bovespa,Petróleo e Gas,Indústria de produtos de petróleo e carvão,94845674000130,RIPI4,CNPJ:94845674000130
+Irani,ON,Ação,ativo,Bovespa,Papel e Celulose,"Indústria de papel, celulose e papelão",92791243000103,RANI3,CNPJ:92791243000103
+Irbbrasil Re,ON,Ação,ativo,Bovespa,Finanças e Seguros,Seguradora e corretora de seguros,33376989000191,IRBR3,CNPJ:33376989000191
+Isa Energia,PN,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",02998611000104,ISAE4,CNPJ:02998611000104
+Itaitinga,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,01258943000181,SQRM3,CNPJ:01258943000181
+Itausa,PN,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,61532644000115,ITSA4,CNPJ:61532644000115
+Itautec,ON,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de computadores e periféricos,54526082000131,ITEC3,CNPJ:54526082000131
+ItauUnibanco,PN,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,60872504000123,ITUB4,CNPJ:60872504000123
+Iven,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",00000000000000,IVEN3,TICKER:IVEN3
+Ivi,PN,Ação,cancelado,Bovespa,Veiculos e peças,Estaleiros,28500320000120,VRLM4,CNPJ:28500320000120
+Jallesmachad,ON,Ação,ativo,Bovespa,Outros,Outras outras indústrias,02635522000195,JALL3,CNPJ:02635522000195
+Jaragua Fabril,PN,Ação,cancelado,Bovespa,Textil,Tecelagens,84432426000104,JFAB4,CNPJ:84432426000104
+JBS,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Abatedouros,02916265000160,JBSS3,CNPJ:02916265000160
+JBS Nv,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,49115815000105,JBSS32,CNPJ:49115815000105
+JHSF Part,ON,Ação,ativo,Bovespa,Construção,Construção,08294224000165,JHSF3,CNPJ:08294224000165
+Joao Fortes,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,33035536000100,JFEN3,CNPJ:33035536000100
+Josapar,ON,Ação,ativo,Bovespa,Alimentos e Beb,Moinho de grãos,87456562000122,JOPA3,CNPJ:87456562000122
+JSL,ON,Ação,ativo,Bovespa,Transporte Serviç,Transporte rodoviário,52548435000179,JSLG3,CNPJ:52548435000179
+Kallas,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,09146451000106,KLAS3,CNPJ:09146451000106
+Karsten,PN,Ação,ativo,Bovespa,Textil,Indústria de roupas de tecido,82640558000104,CTKA4,CNPJ:82640558000104
+Kepler Weber,ON,Ação,ativo,Bovespa,Siderur & Metalur,Indústria de estruturas metálicas,91983056000169,KEPL3,CNPJ:91983056000169
+Klab Riocell,PNA,Ação,cancelado,Bovespa,Papel e Celulose,"Indústria de papel, celulose e papelão",00000000000000,RCLL5,TICKER:RCLL5
+Klabin S/A,UNT N2,Ação,ativo,Bovespa,Papel e Celulose,"Indústria de papel, celulose e papelão",89637490000145,KLBN11,CNPJ:89637490000145
+Klabinsegall,ON,Ação,cancelado,Bovespa,Construção,Construção,00187032000148,KSSA3,CNPJ:00187032000148
+Kora Saude,ON,Ação,cancelado,Bovespa,Outros,Hospital,13270520000166,KRSA3,CNPJ:13270520000166
+Kuala,PN,Ação,cancelado,Bovespa,Textil,Outras indústrias de tecidos,82640723000110,ARTE4,CNPJ:82640723000110
+La Fonte Tel,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,53790218000153,LFFE3,CNPJ:53790218000153
+Laep,A,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de laticínios,08904552000136,MILK33,CNPJ:08904552000136
+Lark Maqs,PN,Ação,cancelado,Bovespa,Outros,Concerto e manutenção de equipamentos (exceto eletrônicos e de precisão),60631090000140,LARK4,CNPJ:60631090000140
+Lavvi,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,26462693000128,LAVV3,CNPJ:26462693000128
+Le Biscuit,ON,Ação,ativo,Bovespa,Comércio,Loja de mercadorias variadas,16233389000155,LLBI3,CNPJ:16233389000155
+Leco,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de laticínios,60434487000142,LECO4,CNPJ:60434487000142
+LF Tel,PN,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02390206000109,PITI4,CNPJ:02390206000109
+Lfparticip,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,15463423000115,MLPP3,CNPJ:15463423000115
+Liasa,PN,Ação,cancelado,Bovespa,Minerais não Met,Indústria de outros produtos de minerais não metálicos,17221771000101,LIAS4,CNPJ:17221771000101
+Lifemed,ON,Ação,ativo,Bovespa,Outros,Indústria de equipamentos e materiais para uso médico,02357251000153,LMED3,CNPJ:02357251000153
+Light S/A,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",03378521000175,LIGT3,CNPJ:03378521000175
+Linhas Circulo,PN,Ação,cancelado,Bovespa,Textil,Indústria de fios,84043009000170,ILLS4,CNPJ:84043009000170
+Linx,ON,Ação,cancelado,Bovespa,Software e Dados,Editoras de software,06948969000175,LINX3,CNPJ:06948969000175
+Litel,ON,Ação,ativo,Bovespa,Mineração,Mineração de metais,00743065000127,LTEL3B,CNPJ:00743065000127
+Litela,ON,Ação,ativo,Bovespa,Mineração,Mineração (exceto petróleo e gás),05495546000184,LTLA3B,CNPJ:05495546000184
+Livr Globo,PN,Ação,cancelado,Bovespa,Comércio,"Loja de livros, jornais e música",92724053000173,LGLO4,CNPJ:92724053000173
+Lix da Cunha,ON,Ação,cancelado,Bovespa,Construção,Outras construções pesadas e de engenharia civil,46014635000149,LIXC3,CNPJ:46014635000149
+Localiza,ON,Ação,ativo,Bovespa,Outros,Locadora de automóveis,16670085000155,RENT3,CNPJ:16670085000155
+Locamerica,ON,Ação,cancelado,Bovespa,Outros,Locadora de automóveis,10215988000160,LCAM3,CNPJ:10215988000160
+Log Com Prop,ON,Ação,ativo,Bovespa,Construção,Construção,09041168000110,LOGG3,CNPJ:09041168000110
+Log-In,ON,Ação,ativo,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte,42278291000124,LOGN3,CNPJ:42278291000124
+Lojas Americ,ON,Ação,cancelado,Bovespa,Comércio,Loja de departamentos,33014556000196,LAME3,CNPJ:33014556000196
+Lojas Arapua,PN,Ação,cancelado,Bovespa,Comércio,Outras lojas de mercadorias variadas,00354053000100,LOAR4,CNPJ:00354053000100
+Lojas Hering,PN,Ação,cancelado,Bovespa,Comércio,Loja de roupas,82640632000184,LHER4,CNPJ:82640632000184
+Lojas Marisa,ON,Ação,ativo,Bovespa,Comércio,Loja de roupas,61189288000189,AMAR3,CNPJ:61189288000189
+Lojas Renner,ON,Ação,ativo,Bovespa,Comércio,Loja de roupas,92754738000162,LREN3,CNPJ:92754738000162
+Longdis,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,02338534000158,SPRT3B,CNPJ:02338534000158
+Lopes Brasil,ON,Ação,ativo,Bovespa,Outros,Atividades relacionadas a imóveis,08078847000109,LPSB3,CNPJ:08078847000109
+Lorenz,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Moinho de grãos,82639543000118,LORZ4,CNPJ:82639543000118
+Lupatech,ON,Ação,ativo,Bovespa,Siderur & Metalur,Forjarias e estamparias,89463822000112,LUPA3,CNPJ:89463822000112
+Lwsa,ON,Ação,ativo,Bovespa,Software e Dados,Editoras de software,02351877000152,LWSA3,CNPJ:02351877000152
+M G Poliest,ON,Ação,cancelado,Bovespa,Química,Indústria química,56806656000150,RHDS3,CNPJ:56806656000150
+M.Diasbranco,ON,Ação,ativo,Bovespa,Alimentos e Beb,Outras indústrias de alimentos,07206816000115,MDIA3,CNPJ:07206816000115
+Madeirit,PN,Ação,cancelado,Bovespa,Outros,Indústria de produtos de madeira compensada e afins,60873874000185,MADE4,CNPJ:60873874000185
+Maestroloc,ON,Ação,cancelado,Bovespa,Outros,Locadora de automóveis,08795211000170,MSRO3,CNPJ:08795211000170
+Magaz Luiza,ON,Ação,ativo,Bovespa,Comércio,Loja de departamentos,47960950000121,MGLU3,CNPJ:47960950000121
+Magnesita,PNA,Ação,cancelado,Bovespa,Mineração,Extração de minerais não metálicos,00000000000000,MAGS5,TICKER:MAGS5
+Magnesita SA,ON,Ação,cancelado,Bovespa,Mineração,Extração de minerais não metálicos,08684547000165,MAGG3,CNPJ:08684547000165
+Mahle-Cofap,PN,Ação,cancelado,Bovespa,Veiculos e peças,Indústria de autopeças,03002935000103,MLCF4,CNPJ:03002935000103
+Maio Gallo,PN,Ação,cancelado,Bovespa,Veiculos e peças,Indústria de autopeças,61146650000134,GALO4,CNPJ:61146650000134
+Makro,ON,Ação,cancelado,Bovespa,Comércio,Outras lojas de mercadorias variadas,47427653000115,MAKR3,CNPJ:47427653000115
+Manasa,PN,Ação,cancelado,Bovespa,Agro e Pesca,Outros cultivos,60400009000111,MNSA4,CNPJ:60400009000111
+Mangels Indl,PN,Ação,ativo,Bovespa,Siderur & Metalur,Forjarias e estamparias,61065298000102,MGEL4,CNPJ:61065298000102
+Mannesmann,ON,Ação,cancelado,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,17170150000146,MANM3,CNPJ:17170150000146
+Maori,ON,Ação,cancelado,Bovespa,Outros,Impressão e atividades auxiliares,02535295000126,MAOR3B,CNPJ:02535295000126
+Marambaia,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de bebidas,51468056000106,CTPC3,CNPJ:51468056000106
+Marcopolo,PN,Ação,ativo,Bovespa,Veiculos e peças,Indústria de carrocerias e trailers,88611835000129,POMO4,CNPJ:88611835000129
+Marfrig,ON,Ação,ativo,Bovespa,Alimentos e Beb,Abatedouros,03853896000140,MBRF3,CNPJ:03853896000140
+Marisol,PN,Ação,cancelado,Bovespa,Textil,Indústria de roupas de malha,84429752000162,MRSL4,CNPJ:84429752000162
+Mater Dei,ON,Ação,ativo,Bovespa,Outros,Serviços ambulatoriais de saúde,16676520000159,MATD3,CNPJ:16676520000159
+Mcom Wireles,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,01102291000191,MCWS3,CNPJ:01102291000191
+Mec Pesada,PN,Ação,cancelado,Bovespa,Máquinas Indust,"Indústria de motores, turbinas e transmissores de energia",00000000000000,MEC4,TICKER:MEC4
+Medial Saude,ON,Ação,cancelado,Bovespa,Outros,Serviços ambulatoriais de saúde,43358647000100,MEDI3,CNPJ:43358647000100
+Melhor SP,PN,Ação,ativo,Bovespa,Papel e Celulose,Indústria de produtos de papel e papelão,60730348000166,MSPA4,CNPJ:60730348000166
+Meliuz,ON,Ação,ativo,Bovespa,Software e Dados,Outros serviços de Informação,14110585000107,CASH3,CNPJ:14110585000107
+Melnick,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,12181987000177,MELK3,CNPJ:12181987000177
+Melpaper,PN,Ação,cancelado,Bovespa,Papel e Celulose,Indústria de produtos de papel e papelão,00020540000137,MLPA4,CNPJ:00020540000137
+Mendes Jr,PNA,Ação,cancelado,Bovespa,Construção,Outras construções pesadas e de engenharia civil,17162082000173,MEND5,CNPJ:17162082000173
+Menezes Cort,ON,Ação,cancelado,Bovespa,Transporte Serviç,Outras atividades auxiliares ao transporte,02664042000152,MNZC3,CNPJ:02664042000152
+Merc Financ,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,33040601000187,MERC4,CNPJ:33040601000187
+Merc Invest,PN,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,34169557000172,BMIN4,CNPJ:34169557000172
+Merc S Paulo,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,61065421000195,BMCT4,CNPJ:61065421000195
+Mercantil,PN,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,17184037000110,BMEB4,CNPJ:17184037000110
+Mesbla,PN,Ação,cancelado,Bovespa,Comércio,Loja de departamentos,33087156000100,MESB4,CNPJ:33087156000100
+Met Duque,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Indústria de molas e produtos de arame,84683762000120,DUQE4,CNPJ:84683762000120
+Metal Iguacu,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Outras indústrias de produtos de metal,80227184000166,MTIG4,CNPJ:80227184000166
+Metal Leve,ON,Ação,ativo,Bovespa,Veiculos e peças,Indústria de autopeças,60476884000187,LEVE3,CNPJ:60476884000187
+Metalfrio,ON,Ação,ativo,Bovespa,Máquinas Indust,Indústria de equipamentos de refrigeração,04821041000108,FRIO3,CNPJ:04821041000108
+Metisa,PN,Ação,ativo,Bovespa,Siderur & Metalur,Outras indústrias de produtos de metal,86375425000109,MTSA4,CNPJ:86375425000109
+Metodo Engenharia,ON,Ação,cancelado,Bovespa,Construção,Construção,43710946000154,MTDO3,CNPJ:43710946000154
+Micheletto,PNA,Ação,cancelado,Bovespa,Siderur & Metalur,"Indústria de parafusos, arruelas, porcas e produtos torneados",88301163000155,LETO5,CNPJ:88301163000155
+Mills,ON,Ação,ativo,Bovespa,Outros,Serviços de engenharia e arquitetura,27093558000115,MILS3,CNPJ:27093558000115
+Minasmaquina,PN,Ação,ativo,Bovespa,Comércio,Concessionárias de outros veículos motorizados,17161241000115,MMAQ4,CNPJ:17161241000115
+Minerva,ON,Ação,ativo,Bovespa,Alimentos e Beb,Abatedouros,67620377000114,BEEF3,CNPJ:67620377000114
+Minupar,ON,Ação,ativo,Bovespa,Alimentos e Beb,Abatedouros,90076886000140,MNPR3,CNPJ:90076886000140
+Mitre Realty,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,07882930000165,MTRE3,CNPJ:07882930000165
+MMX Miner,ON,Ação,cancelado,Bovespa,Mineração,Mineração de metais,02762115000149,MMXM3,CNPJ:02762115000149
+Modalmais,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,30723886000162,MODL3,CNPJ:30723886000162
+Mont Aranha,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,33102476000192,MOAR3,CNPJ:33102476000192
+Montreal,PN,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,60501780000185,VEMG4,CNPJ:60501780000185
+Mosaico,ON,Ação,cancelado,Bovespa,Comércio,Vendas por correio ou meio eletrônico,09083175000184,MOSI3,CNPJ:09083175000184
+Motiva SA,ON,Ação,ativo,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte rodoviário,02846056000197,MOTV3,CNPJ:02846056000197
+Moura Dubeux,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,12049631000184,MDNE3,CNPJ:12049631000184
+Movida,ON,Ação,ativo,Bovespa,Outros,Locadora de automóveis,21314559000166,MOVI3,CNPJ:21314559000166
+Mrs Logist,ON,Ação,ativo,Bovespa,Transporte Serviç,Transporte ferroviário,01417222000177,MRSA3B,CNPJ:01417222000177
+MRV,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,08343492000120,MRVE3,CNPJ:08343492000120
+Muller,PN,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de eletrodomésticos,33010760000139,MULL4,CNPJ:33010760000139
+Multilaser,ON,Ação,ativo,Bovespa,Eletroeletrônicos,Indústria de computadores e periféricos,59717553000102,MLAS3,CNPJ:59717553000102
+Multiplan,ON,Ação,ativo,Bovespa,Outros,Locadora de imóveis,07816890000153,MULT3,CNPJ:07816890000153
+Multiplus,ON,Ação,cancelado,Bovespa,Outros,Outros serviços de apoio,11094546000175,MPLU3,CNPJ:11094546000175
+Mundial,ON,Ação,ativo,Bovespa,Siderur & Metalur,Indústria de ferragens,88610191000154,MNDL3,CNPJ:88610191000154
+Nacional,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,17157777000167,BNAC4,CNPJ:17157777000167
+Nadir Figuei,PN,Ação,cancelado,Bovespa,Minerais não Met,Indústria de vidro e produtos de vidro,61067161000197,NAFG4,CNPJ:61067161000197
+Nakata,PN,Ação,cancelado,Bovespa,Veiculos e peças,Indústria de autopeças,60875259000108,NAKT4,CNPJ:60875259000108
+Natura,ON,Ação,ativo,Bovespa,Comércio,Comércio atacadista de bens não duráveis variados,71673990000177,NATU3,CNPJ:71673990000177
+Neoenergia,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",01083200000118,NEOE3,CNPJ:01083200000118
+Neogrid,ON,Ação,cancelado,Bovespa,Software e Dados,Editoras de software,10139870000108,NGRD3,CNPJ:10139870000108
+Net,PN,Ação,cancelado,Bovespa,Outros,TV a cabo,00108786000165,NETC4,CNPJ:00108786000165
+Newtel Part,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02604997000114,NEWT3B,CNPJ:02604997000114
+Nexpe,ON,Ação,ativo,Bovespa,Outros,Atividades relacionadas a imóveis,08613550000198,NEXP3,CNPJ:08613550000198
+Nitrocarbono,PNA,Ação,cancelado,Bovespa,Química,Indústria química,00000000000000,CARB5,TICKER:CARB5
+Nord Brasil,ON,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,07237373000120,BNBR3,CNPJ:07237373000120
+Nordon Met,ON,Ação,ativo,Bovespa,Máquinas Indust,Indústria de outros tipos de máquinas,60884319000159,NORD3,CNPJ:60884319000159
+Nortcquimica,ON,Ação,cancelado,Bovespa,Química,Indústria de remédios,29950060000157,NRTQ3,CNPJ:29950060000157
+Nossa Caixa,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,00000000000000,BNCA3,TICKER:BNCA3
+Nutriplant,ON,Ação,ativo,Bovespa,Química,Indústria de fertilizantes e pesticidas,51128999000190,NUTR3,CNPJ:51128999000190
+Oceanpact,ON,Ação,ativo,Bovespa,Mineração,"Mineração, exploração de pedreiras e extração de petróleo e gás",09114805000130,OPCT3,CNPJ:09114805000130
+Odebrecht,PN,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,15105588000115,ODBE4,CNPJ:15105588000115
+Oderich,PN,Ação,ativo,Bovespa,Alimentos e Beb,Indústria de frutas e vegetais em conserva e comidas especiais,97191902000194,ODER4,CNPJ:97191902000194
+OGX Petroleo,ON,Ação,cancelado,Bovespa,Petróleo e Gas,Extração de petróleo e gás,07957093000196,OGXP3,CNPJ:07957093000196
+Oi,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,76535764000143,OIBR3,CNPJ:76535764000143
+Olma,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Moinho de grãos,45240538000101,OLMA4,CNPJ:45240538000101
+Olvebra,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Moinho de grãos,91156901000122,OLVB4,CNPJ:91156901000122
+Oncoclinicas,ON,Ação,ativo,Bovespa,Outros,Hospital,12104241000402,ONCO3,CNPJ:12104241000402
+Opport Energ,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,02318346000168,OPHE3B,CNPJ:02318346000168
+Oranjebtc,ON,Ação,ativo,Bovespa,Outros,Outros tipos de escolas,59693110000129,OBTC3,CNPJ:59693110000129
+Orion,PN,Ação,cancelado,Bovespa,Outros,Indústria de produtos de borracha,61082863000140,ORIO4,CNPJ:61082863000140
+Orizon,ON,Ação,ativo,Bovespa,Outros,"Água, esgoto e outros sistemas",11421994000136,ORVR3,CNPJ:11421994000136
+OSX Brasil,ON,Ação,ativo,Bovespa,Veiculos e peças,Estaleiros,09112685000132,OSXB3,CNPJ:09112685000132
+Ourofino S/A,ON,Ação,ativo,Bovespa,Química,Indústria de remédios,20258278000170,OFSA3,CNPJ:20258278000170
+Oxiteno,PN,Ação,cancelado,Bovespa,Química,Indústria química básica,62545686000153,OXIT4,CNPJ:62545686000153
+P.Acucar-Cbd,ON,Ação,ativo,Bovespa,Comércio,Loja de departamentos,47508411000156,PCAR3,CNPJ:47508411000156
+Pacific Rdsl,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,21728500000114,PACF3,CNPJ:21728500000114
+Padtec,ON,Ação,ativo,Bovespa,Software e Dados,Editoras de software,02365069000144,PDTC3,CNPJ:02365069000144
+Pague Menos,ON,Ação,ativo,Bovespa,Comércio,Loja de mercadorias variadas,06626253000151,PGMN3,CNPJ:06626253000151
+Panatlantica,ON,Ação,ativo,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,92693019000189,PATI3,CNPJ:92693019000189
+Panex,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Outras indústrias de produtos de metal,61077830000101,PNXS4,CNPJ:61077830000101
+Par Al Bahia,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,01938783000111,PEAB3,CNPJ:01938783000111
+Paraibuna,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Fundição,42416651000107,PRBN4,CNPJ:42416651000107
+Parana,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,14388334000199,PRBC4,CNPJ:14388334000199
+Paranapanema,ON,Ação,ativo,Bovespa,Siderur & Metalur,Outras indústrias de produtos de metal,60398369000126,PMAM3,CNPJ:60398369000126
+Paul F Luz,PNC,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",33050196000188,PALF7,CNPJ:33050196000188
+PDG Realt,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,02950811000189,PDGR3,CNPJ:02950811000189
+Peixe,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de laticínios,10782175000151,PXEC4,CNPJ:10782175000151
+Persico,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,61091013000108,PRSC4,CNPJ:61091013000108
+Pet Manguinh,ON,Ação,cancelado,Bovespa,Petróleo e Gas,Indústria de produtos de petróleo e carvão,33412081000196,RPMG3,CNPJ:33412081000196
+Petrobras,PN,Ação,ativo,Bovespa,Petróleo e Gas,Extração de petróleo e gás,33000167000101,PETR4,CNPJ:33000167000101
+Petrobras Distrib,PN,Ação,cancelado,Bovespa,Petróleo e Gas,Comércio atacadista de petróleo e produtos de petróleo,34274233000102,BRDT4-old,CNPJ:34274233000102
+Petroflex,ON,Ação,cancelado,Bovespa,Química,"Indústria de fibras e borracha sintéticas, resinas e filamentos",29667227000177,PEFX3,CNPJ:29667227000177
+Petroq Uniao,ON,Ação,cancelado,Bovespa,Química,Indústria química,61632964000147,PQUN3,CNPJ:61632964000147
+Petroquisa,PN,Ação,cancelado,Bovespa,Química,Indústria química,33795055000194,PTQS4,CNPJ:33795055000194
+Petrorecsa,ON,Ação,ativo,Bovespa,Petróleo e Gas,Extração de petróleo e gás,03342704000130,RECV3,CNPJ:03342704000130
+Petrorio,ON,Ação,ativo,Bovespa,Petróleo e Gas,Extração de petróleo e gás,10629105000168,PRIO3,CNPJ:10629105000168
+Pettenati,PN,Ação,cancelado,Bovespa,Textil,Tecelagens,88613658000110,PTNT4,CNPJ:88613658000110
+Petzcobasi,ON,Ação,ativo,Bovespa,Comércio,Comércio atacadista de bens não duráveis variados,53153938000108,AUAU3,CNPJ:53153938000108
+Peve Predios,PN,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,00000000000000,PVPR4,TICKER:PVPR4
+Peve-Finasa,PN,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,00000000000000,PVFS4,TICKER:PVFS4
+Pine,PN,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,62144175000120,PINE4,CNPJ:62144175000120
+Pirelli,PN,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de equipamentos de iluminação elétrica,61150751000189,PIRE4,CNPJ:61150751000189
+Pirelli Pneus,PN,Ação,cancelado,Bovespa,Outros,Indústria de produtos de borracha,59179838000137,PIPN4,CNPJ:59179838000137
+Planoeplano,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,24230275000180,PLPL3,CNPJ:24230275000180
+Plascar Part,ON,Ação,ativo,Bovespa,Veiculos e peças,Indústria de autopeças,51928174000150,PLAS3,CNPJ:51928174000150
+Polar,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de bebidas,95424479000108,POLA3,CNPJ:95424479000108
+Polialden,PN,Ação,cancelado,Bovespa,Química,Indústria química,00000000000000,PLDN4,TICKER:PLDN4
+Polipropileno,PN,Ação,cancelado,Bovespa,Química,Indústria química,00000000000000,POPR4,TICKER:POPR4
+Polipropileno Parti,PN,Ação,cancelado,Bovespa,Química,Indústria química,01391425000131,PORP4,CNPJ:01391425000131
+Politeno,PNB,Ação,cancelado,Bovespa,Química,Indústria química básica,00000000000000,PLTO6,TICKER:PLTO6
+Polpar,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,59789545000171,PPAR3,CNPJ:59789545000171
+Pomifrutas,ON,Ação,cancelado,Bovespa,Agro e Pesca,Cultivo de frutas e nozes,86550951000150,FRTA3,CNPJ:86550951000150
+Porto Seguro,ON,Ação,ativo,Bovespa,Finanças e Seguros,Seguradora,02149205000169,PSSA3,CNPJ:02149205000169
+Portobello,ON,Ação,ativo,Bovespa,Minerais não Met,Indústria de produtos de cerâmica e refratários,83475913000191,PTBL3,CNPJ:83475913000191
+Portx,ON,Ação,cancelado,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte aquático,10846981000146,PRTX3,CNPJ:10846981000146
+Positivo Tec,ON,Ação,ativo,Bovespa,Eletroeletrônicos,Indústria de computadores e periféricos,81243735000148,POSI3,CNPJ:81243735000148
+Ppla,UNT,Ação,ativo,Bovespa,Finanças e Seguros,Instituição de intermediação de crédito e atividades relacionadas,15073274000188,PPLA11,CNPJ:15073274000188
+Pq Hopi Hari,ON,Ação,cancelado,Bovespa,Outros,Parque de diversão,00924432000199,PQTM3,CNPJ:00924432000199
+Pratica,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,10747021000129,PRCA3,CNPJ:10747021000129
+Pratica,ON,Ação,ativo,Bovespa,Eletroeletrônicos,Indústria de eletrodomésticos,08574411000100,PTCA3,CNPJ:08574411000100
+Priner,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,18593815000197,PRNR3,CNPJ:18593815000197
+Pro Metalurg,PNB,Ação,cancelado,Bovespa,Veiculos e peças,Indústria de outros equipamentos de transporte,56994924000105,PMET6,CNPJ:56994924000105
+Profarma,ON,Ação,ativo,Bovespa,Comércio,Comércio atacadista de remédios,45453214000151,PFRM3,CNPJ:45453214000151
+Progresso,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,22531842000102,BPRG4,CNPJ:22531842000102
+Proman,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Empresa de eletricidade, gás e água",02291077000193,PRMN3B,CNPJ:02291077000193
+Prometal,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Outras indústrias de produtos de metal,00000000000000,PMT4,TICKER:PMT4
+Prompt Part,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,02992449000109,PRPT3,CNPJ:02992449000109
+Pronor,PNA,Ação,cancelado,Bovespa,Química,Indústria química,13552070000102,PNOR5,CNPJ:13552070000102
+Providencia,ON,Ação,cancelado,Bovespa,Química,Indústria química básica,76500180000132,PRVI3,CNPJ:76500180000132
+Prumo,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,08741499000108,PRML3,CNPJ:08741499000108
+Qualicorp,ON,Ação,ativo,Bovespa,Outros,Outros serviços ambulatoriais de saúde,11992680000193,QUAL3,CNPJ:11992680000193
+Quality Soft,ON,Ação,ativo,Bovespa,Software e Dados,Editoras de software,35791391000194,QUSW3,CNPJ:35791391000194
+Quattor Petr,PN,Ação,cancelado,Bovespa,Química,Indústria química,04705090000177,SZPQ4,CNPJ:04705090000177
+Quero-Quero,ON,Ação,ativo,Bovespa,Comércio,Outras lojas de mercadorias variadas,96418264021802,LJQQ3,CNPJ:96418264021802
+Quimica Geral,PN,Ação,cancelado,Bovespa,Química,Indústria química,00000000000000,QGNE4,TICKER:QGNE4
+Raia,ON,Ação,cancelado,Bovespa,Comércio,Loja de artigos para saúde e cuidados pessoais,60605664000106,RAIA3,CNPJ:60605664000106
+RaiaDrogasil,ON,Ação,ativo,Bovespa,Comércio,Loja de artigos para saúde e cuidados pessoais,61585865000151,RADL3,CNPJ:61585865000151
+Rail Sul,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,00000000000000,RASL3,TICKER:RASL3
+Raizen,PN,Ação,ativo,Bovespa,Agro e Pesca,Agricultura,33453598000123,RAIZ4,CNPJ:33453598000123
+Randon Part,PN,Ação,ativo,Bovespa,Veiculos e peças,Indústria de carrocerias e trailers,89086144000116,RAPT4,CNPJ:89086144000116
+Rasip Agro,PN,Ação,cancelado,Bovespa,Agro e Pesca,Cultivo de frutas e nozes,94789468000150,RSIP4,CNPJ:94789468000150
+Rdvc City,ON,Ação,ativo,Bovespa,Finanças e Seguros,Atividades relacionadas à intermediação de crédito,52805925000103,CCTY3,CNPJ:52805925000103
+Real,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,00000000000000,REAL3,TICKER:REAL3
+Real Cons Part,PNF,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,02670203000110,RCPR12,CNPJ:02670203000110
+Real Holdings,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,02670204000165,RHPR3,CNPJ:02670204000165
+Realpar Part,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,02670205000100,RPPR3,CNPJ:02670205000100
+Recrusul,PN,Ação,ativo,Bovespa,Veiculos e peças,Indústria de carrocerias e trailers,91333666000117,RCSL4,CNPJ:91333666000117
+Rede D Or,ON,Ação,ativo,Bovespa,Outros,Laboratório de exames médicos,06047087000139,RDOR3,CNPJ:06047087000139
+Rede Energia,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",61584140000149,REDE3,CNPJ:61584140000149
+Redecard,ON,Ação,cancelado,Bovespa,Software e Dados,"Serviços de processamento de dados, hospedagem e outros serviços relacionados",01425787000104,RDCD3,CNPJ:01425787000104
+Redentor,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",12126500000153,RDTR3,CNPJ:12126500000153
+Ren Hermann,PN,Ação,cancelado,Bovespa,Química,Indústria de tintas e adesivos,92690700000173,RHER4,CNPJ:92690700000173
+Renner Part,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,02659727000100,RNPT3,CNPJ:02659727000100
+Renova,ON,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",08534605000174,RNEW3,CNPJ:08534605000174
+Ret Part,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,02363917000186,OPRE3B,CNPJ:02363917000186
+Revee,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,52841191000118,RVEE3,CNPJ:52841191000118
+Rexam Bcsa,ON,Ação,cancelado,Bovespa,Siderur & Metalur,Indústria de produtos de metal,29506474000191,LATS3,CNPJ:29506474000191
+Riachuelo,ON,Ação,ativo,Bovespa,Textil,Indústria de roupas de tecido,08402943000152,RIAA3,CNPJ:08402943000152
+Rimet,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Forjarias e estamparias,29388352000148,REEM4,CNPJ:29388352000148
+Rio Alto,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",38199406000118,RIOS3,CNPJ:38199406000118
+Rio Gde Ener,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",02016439000138,RGEG3,CNPJ:02016439000138
+Riosulense,PN,Ação,ativo,Bovespa,Veiculos e peças,Indústria de autopeças,85778074000106,RSUL4,CNPJ:85778074000106
+Ripasa,PN,Ação,cancelado,Bovespa,Papel e Celulose,"Indústria de papel, celulose e papelão",00000000000000,RPSA4,TICKER:RPSA4
+Rjcp,ON,Ação,cancelado,Bovespa,Fundos,Outros fundos,08281683000104,RJCP3,CNPJ:08281683000104
+Rni,ON,Ação,cancelado,Bovespa,Construção,Construção de edifícios residenciais,67010660000124,RDNI3,CNPJ:67010660000124
+Rodobens,UNT,Ação,ativo,Bovespa,Comércio,"Comércio atacadista de veículos motorizados, peças e acessórios",59981829000165,RBNS11,CNPJ:59981829000165
+Romi,ON,Ação,ativo,Bovespa,Máquinas Indust,Indústria de máquinas industriais,56720428000163,ROMI3,CNPJ:56720428000163
+Rossi Resid,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,61065751000180,RSID3,CNPJ:61065751000180
+Rumo Log,ON,Ação,cancelado,Bovespa,Transporte Serviç,Transporte rodoviário,71550388000142,RUMO3,CNPJ:71550388000142
+Rumo S.A.,ON,Ação,ativo,Bovespa,Transporte Serviç,Transporte ferroviário,02387241000160,RAIL3,CNPJ:02387241000160
+S Gobain Canal,ON,Ação,cancelado,Bovespa,Siderur & Metalur,Fundição,28672087000162,BARB3,CNPJ:28672087000162
+S Gobain Vidro,ON,Ação,cancelado,Bovespa,Minerais não Met,Indústria de vidro e produtos de vidro,60853942000144,VSMA3,CNPJ:60853942000144
+Sabesp,ON,Ação,ativo,Bovespa,Outros,"Água, esgoto e outros sistemas",43776517000180,SBSP3,CNPJ:43776517000180
+Sadia S/A,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Abatedouros,20730099000194,SDIA3,CNPJ:20730099000194
+Safira Energ,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",13522948000159,SAEN3,CNPJ:13522948000159
+Sam Industr,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Indústria de ferramentas de metal não motorizadas e cutelaria,33017039000170,FCAP4,CNPJ:33017039000170
+Samitri,PN,Ação,cancelado,Bovespa,Mineração,Mineração de metais,17179391000156,SAMI4,CNPJ:17179391000156
+Sanepar,UNT N2,Ação,ativo,Bovespa,Outros,"Água, esgoto e outros sistemas",76484013000145,SAPR11,CNPJ:76484013000145
+Sansuy,PNA,Ação,ativo,Bovespa,Outros,Indústria de produtos de plástico,14807945000124,SNSY5,CNPJ:14807945000124
+Santander BR,UNT,Ação,ativo,Bovespa,Finanças e Seguros,Bancos,90400888000142,SANB11,CNPJ:90400888000142
+Santander Noroeste,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,00000000000000,BNET4,TICKER:BNET4
+Santanense,ON,Ação,ativo,Bovespa,Textil,Tecelagens,21255567000189,CTSA3,CNPJ:21255567000189
+Santista Alimentos,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Outras indústrias de alimentos,00000000000000,MFLU3,TICKER:MFLU3
+Santistextil,PN,Ação,cancelado,Bovespa,Textil,Tecelagens,15082688000173,ASTA4,CNPJ:15082688000173
+Santos Bras,UNT N2,Ação,cancelado,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte aquático,02084220000176,STBR11,CNPJ:02084220000176
+Santos Brp,ON,Ação,cancelado,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte aquático,02762121000104,STBP3,CNPJ:02762121000104
+Sao Carlos,ON,Ação,ativo,Bovespa,Outros,Locadora de imóveis,29780061000109,SCAR3,CNPJ:29780061000109
+Sao Martinho,ON,Ação,ativo,Bovespa,Outros,Outras outras indústrias,51466860000156,SMTO3,CNPJ:51466860000156
+Saraiva Livr,ON,Ação,cancelado,Bovespa,Outros,"Editoras de jornais, revistas, livros e similares",60500139000126,SLED3,CNPJ:60500139000126
+Sauipe,ON,Ação,cancelado,Bovespa,Outros,"Hotel, motel ou similar",00866577000180,PSEG3,CNPJ:00866577000180
+Savarg,PN,Ação,cancelado,Bovespa,Transporte Serviç,Transporte aéreo regular,92772821000164,VAGV4,CNPJ:92772821000164
+Schlosser,PN,Ação,cancelado,Bovespa,Textil,Tecelagens,82981929000103,SCLO4,CNPJ:82981929000103
+Schulz,PN,Ação,ativo,Bovespa,Veiculos e peças,Indústria de autopeças,84693183000168,SHUL4,CNPJ:84693183000168
+Seara Alim,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Abatedouros,02914460000150,SALM3,CNPJ:02914460000150
+Seb,UNT N2,Ação,cancelado,Bovespa,Outros,Educacão,02762122000140,SEBB11,CNPJ:02762122000140
+Seg Al Bahia,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Seguradora,15144017000190,CSAB3,CNPJ:15144017000190
+Seg Min Bras,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Seguradora,17197385000121,CSMB3,CNPJ:17197385000121
+Selectpart,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02604860000160,SLCT3B,CNPJ:02604860000160
+Semp,ON,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de equipamentos de áudio e vídeo,61151445000167,SEMP3,CNPJ:61151445000167
+Sequoia Log,ON,Ação,ativo,Bovespa,Transporte Serviç,Transporte rodoviário,01599101000193,SEQL3,CNPJ:01599101000193
+Ser Educa,ON,Ação,ativo,Bovespa,Outros,Escola de ensino superior,04986320000113,SEER3,CNPJ:04986320000113
+Serena,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",42500384000151,SRNA3,CNPJ:42500384000151
+Sergen,PN,Ação,cancelado,Bovespa,Construção,Outras construções pesadas e de engenharia civil,33161340000153,SGEN4,CNPJ:33161340000153
+Sharp,PN,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de eletrodomésticos,62607502000132,SHAP4,CNPJ:62607502000132
+Shoptime,ON,Ação,cancelado,Bovespa,Comércio,Vendas por correio ou meio eletrônico,01104894000122,SHTM3,CNPJ:01104894000122
+Sibra,PNC,Ação,cancelado,Bovespa,Siderur & Metalur,Fundição,15144306000199,SIBR7,CNPJ:15144306000199
+Sid Aconorte,PNA,Ação,cancelado,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,00000000000000,ANO5,TICKER:ANO5
+Sid Nacional,ON,Ação,ativo,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,33042730000104,CSNA3,CNPJ:33042730000104
+Sid Riogran,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,00000000000000,RIO4,TICKER:RIO4
+Sid Tubarao,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,27251974000102,CSTB4,CNPJ:27251974000102
+Sifco,PN,Ação,cancelado,Bovespa,Veiculos e peças,Indústria de autopeças,60499605000109,SIFC4,CNPJ:60499605000109
+Simpar,ON,Ação,ativo,Bovespa,Transporte Serviç,Transporte rodoviário,07415333000120,SIMH3,CNPJ:07415333000120
+Sinqia,ON,Ação,cancelado,Bovespa,Software e Dados,Editoras de software,04065791000199,SQIA3,CNPJ:04065791000199
+SLC Agricola,ON,Ação,ativo,Bovespa,Agro e Pesca,Agricultura,89096457000155,SLCE3,CNPJ:89096457000155
+Smart Fit,ON,Ação,ativo,Bovespa,Outros,Outras indústrias da recreação,07594978000178,SMFT3,CNPJ:07594978000178
+Smiles,ON,Ação,cancelado,Bovespa,Outros,Outros serviços de apoio,05730375000120,SMLS3,CNPJ:05730375000120
+Sofisa,PN,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,60889128000180,SFSA4,CNPJ:60889128000180
+Sola,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Abatedouros,32286411000181,SLAL4,CNPJ:32286411000181
+Sole Comex,ON,Ação,cancelado,Bovespa,Comércio,Loja de utensílios eletrônicos,00000000000000,SLBR3,TICKER:SLBR3
+Somos Educa,ON,Ação,cancelado,Bovespa,Outros,Outros tipos de escolas,02541982000154,SEDU3,CNPJ:02541982000154
+Sondotecnica,PNA,Ação,ativo,Bovespa,Outros,"Consultoria administrativa, científica e técnica",33386210000119,SOND5,CNPJ:33386210000119
+Souto Vidig,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,60688256000165,PVLT3,CNPJ:60688256000165
+Souza Cruz,ON,Ação,cancelado,Bovespa,Outros,Indústria de fumo,33009911000139,CRUZ3,CNPJ:33009911000139
+Spel Empreendim,ON,Ação,cancelado,Bovespa,Construção,Construção de edifícios residenciais,00000000000000,SPEL3,TICKER:SPEL3
+Springer,ON,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de eletrodomésticos,92929520000100,SPRI3,CNPJ:92929520000100
+Springs,ON,Ação,cancelado,Bovespa,Textil,Indústria de roupas de tecido,07718269000157,SGPS3,CNPJ:07718269000157
+Spscs Industrial,PN,Ação,cancelado,Bovespa,Veiculos e peças,Indústria de carrocerias e trailers,59290239000196,BFCV4,CNPJ:59290239000196
+SPturis,ON,Ação,ativo,Bovespa,Outros,Outros serviços de apoio,62002886000160,AHEB3,CNPJ:62002886000160
+Stara,ON,Ação,cancelado,Bovespa,Máquinas Indust,"Industria de máquinas agrícolas, de construção e mineração",91495499000100,STTR3,CNPJ:91495499000100
+Statkraft,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",00622416000141,STKF3,CNPJ:00622416000141
+Submarino,ON,Ação,cancelado,Bovespa,Comércio,Vendas por correio ou meio eletrônico,00000000000000,SUBA3,TICKER:SUBA3
+Sudameris,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,60942638000173,BFIT3,CNPJ:60942638000173
+Sudeste S/A,ON,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,02062747000108,OPSE3,CNPJ:02062747000108
+Sul 116 Part,ON,Ação,ativo,Bovespa,Telecomunicações,Telecomunicações,01957772000189,OPTS3,CNPJ:01957772000189
+Sul Amer Nac,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Seguradora,33041062000109,SASG3,CNPJ:33041062000109
+Sul America,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Seguradora,29978814000187,SULA3,CNPJ:29978814000187
+Sulacap,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Seguradora,00000000000000,SLCP3,TICKER:SLCP3
+Sultepa,ON,Ação,cancelado,Bovespa,Construção,"Construção de estradas, ruas, pontes e túneis",89723993000133,SULT3,CNPJ:89723993000133
+Suzano Hold,PNA,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,60651809000105,NEMO5,CNPJ:60651809000105
+Suzano S.A.,ON,Ação,ativo,Bovespa,Papel e Celulose,"Indústria de papel, celulose e papelão",16404287000155,SUZB3,CNPJ:16404287000155
+Sv Engenhar,PN,Ação,cancelado,Bovespa,Construção,Outros trabalhos especializados em construção,00000000000000,SAD4,TICKER:SAD4
+Syn Prop Tec,ON,Ação,ativo,Bovespa,Outros,Locadora de imóveis,08801621000186,SYNE3,CNPJ:08801621000186
+Taesa,UNT N2,Ação,ativo,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",07859971000130,TAEE11,CNPJ:07859971000130
+Tam S/A,PN,Ação,cancelado,Bovespa,Transporte Serviç,Transporte aéreo regular,01832635000118,TAMM4,CNPJ:01832635000118
+Tam Transp,PN,Ação,cancelado,Bovespa,Transporte Serviç,Transporte aéreo regular,00000000000000,TAMR4,TICKER:TAMR4
+Tarpon Inv,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Outras atividades relacionadas a investimentos financeiros,05341549000163,TRPN3,CNPJ:05341549000163
+Taurus Armas,PN,Ação,ativo,Bovespa,Siderur & Metalur,Outras indústrias de produtos de metal,92781335000102,TASA4,CNPJ:92781335000102
+Tec Blumenau,PNC,Ação,cancelado,Bovespa,Textil,Indústria de roupas de tecido,08424178000171,TENE7,CNPJ:08424178000171
+Tecel S Jose,PN,Ação,cancelado,Bovespa,Textil,Tecelagens,17159005000164,SJOS4,CNPJ:17159005000164
+Technos,ON,Ação,ativo,Bovespa,Outros,Outras indústrias,09295063000197,TECN3,CNPJ:09295063000197
+Technos Rel,PN,Ação,cancelado,Bovespa,Outros,Outras indústrias,92672203000142,TCHN4,CNPJ:92672203000142
+Tecnisa,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,08065557000112,TCSA3,CNPJ:08065557000112
+Tecnosolo,ON,Ação,cancelado,Bovespa,Outros,"Consultoria administrativa, científica e técnica",33111246000190,TCNO3,CNPJ:33111246000190
+Tectoy,PN,Ação,cancelado,Bovespa,Outros,Outras outras indústrias,22770366000182,TOYB4,CNPJ:22770366000182
+Tegma,ON,Ação,ativo,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte,02351144000118,TGMA3,CNPJ:02351144000118
+Tegra Incorp,ON,Ação,cancelado,Bovespa,Construção,Construção de edifícios residenciais,30213493000109,TEGA3,CNPJ:30213493000109
+Teka,PN,Ação,cancelado,Bovespa,Textil,Indústria de roupas de tecido,82636986000155,TEKA4,CNPJ:82636986000155
+Tekno,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Outras indústrias de produtos de metal,33467572000134,TKNO4,CNPJ:33467572000134
+Tel B Campo,PN,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TBCP4,TICKER:TBCP4
+Tele Centroeste Cel,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TCOC3,TICKER:TCOC3
+Tele Leste Celular,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TLCP3,TICKER:TLCP3
+Tele Nordeste Celul,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TNEP3,TICKER:TNEP3
+Tele Nort Cl,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02558154000129,TNCP3,CNPJ:02558154000129
+Tele Sudeste Celula,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TSEP3,TICKER:TSEP3
+Telebahia,PNA,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TEBA5,TICKER:TEBA5
+Telebahia Celular,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TBAC3,TICKER:TBAC3
+Telebras,PN,Ação,ativo,Bovespa,Telecomunicações,Telecomunicações,00336701000104,TELB4,CNPJ:00336701000104
+Telebras (Old),ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TELB3-old,TICKER:TELB3-old
+Telebrasilia,PN,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TBRS4,TICKER:TBRS4
+Telef Brasil,ON,Ação,ativo,Bovespa,Telecomunicações,Telecomunicações,02558157000162,VIVT3,CNPJ:02558157000162
+Telefonica Data Hld,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TDBH3,TICKER:TDBH3
+Telemar,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02558134000158,TNLP3,CNPJ:02558134000158
+Telemar N L,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,33000118000179,TMAR3,CNPJ:33000118000179
+Telemig,PNB,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TMGR6,TICKER:TMGR6
+Telemig Cl,PNC,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02320739000106,TMGC7,CNPJ:02320739000106
+Telemig Part,PN,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02558118000165,TMCP4,CNPJ:02558118000165
+Telerj Cel,PNB,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TRJC6,TICKER:TRJC6
+Telesp Cel,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TSPC3,TICKER:TSPC3
+Telesp Part,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TLPP3F,TICKER:TLPP3F
+Telet,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,00000000000000,TETE3,TICKER:TETE3
+Telinvest,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02476710000118,TLVT3B,CNPJ:02476710000118
+Tempo Part,ON,Ação,cancelado,Bovespa,Outros,Serviços ambulatoriais de saúde,06977739000134,TEMP3,CNPJ:06977739000134
+Tenda,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,71476527000135,TEND3,CNPJ:71476527000135
+Tereos,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de açúcar e produtos de confeitaria,11566501000156,TERI3,CNPJ:11566501000156
+Terrasantapa,ON,Ação,ativo,Bovespa,Outros,Outras outras indústrias,40337136000106,LAND3,CNPJ:40337136000106
+Tex Renaux,PN,Ação,ativo,Bovespa,Textil,Tecelagens,82982075000180,TXRX4,CNPJ:82982075000180
+Tig Ltd,A,Ação,cancelado,Bovespa,Finanças e Seguros,Seguradora e corretora de seguros,00000000000000,TARP11,TICKER:TARP11
+Tim,ON,Ação,ativo,Bovespa,Telecomunicações,Telecomunicações,02421421000111,TIMS3,CNPJ:02421421000111
+Tim Nordeste,PNB,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02336993000100,TPEC6B,CNPJ:02336993000100
+Tim Sul,PNB,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02332397000144,TPRC6,CNPJ:02332397000144
+Time For Fun,ON,Ação,cancelado,Bovespa,Outros,Apresentações artísticas,02860694000162,SHOW3,CNPJ:02860694000162
+Tivit,ON,Ação,cancelado,Bovespa,Outros,Outros serviços de apoio,07073027000153,TVIT3,CNPJ:07073027000153
+Totvs,ON,Ação,ativo,Bovespa,Software e Dados,Editoras de software,53113791000122,TOTS3,CNPJ:53113791000122
+Track Field,PN,Ação,ativo,Bovespa,Comércio,Loja de roupas,59418806000147,TFCO4,CNPJ:59418806000147
+Trafo,PN,Ação,cancelado,Bovespa,Eletroeletrônicos,Indústria de equipamentos para geração e distribuição de energia,90286105000141,TRFO4,CNPJ:90286105000141
+Transbrasil,PN,Ação,cancelado,Bovespa,Transporte Serviç,Transporte aéreo regular,60872173000121,TRBR4,CNPJ:60872173000121
+Transparana,PN,Ação,cancelado,Bovespa,Comércio,Concessionárias de outros veículos motorizados,78594876000109,TRPA4,CNPJ:78594876000109
+Trevisa,PN,Ação,ativo,Bovespa,Outros,Administração de empresas e empreendimentos,92660570000126,LUXM4,CNPJ:92660570000126
+Trikem,PN,Ação,cancelado,Bovespa,Química,"Indústria de fibras e borracha sintéticas, resinas e filamentos",00000000000000,CPCA4,TICKER:CPCA4
+Trisul,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,08811643000127,TRIS3,CNPJ:08811643000127
+Triunfo Part,ON,Ação,ativo,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte rodoviário,03014553000191,TPIS3,CNPJ:03014553000191
+Trombini,PN,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,75049965000178,TRMB4,CNPJ:75049965000178
+Trorion,PN,Ação,cancelado,Bovespa,Química,Indústria química,61418430000112,TROR4,CNPJ:61418430000112
+Tupy,ON,Ação,ativo,Bovespa,Veiculos e peças,Indústria de autopeças,84683374000149,TUPY3,CNPJ:84683374000149
+Ultrapar,ON,Ação,ativo,Bovespa,Petróleo e Gas,Comércio atacadista de petróleo e produtos de petróleo,33256439000139,UGPA3,CNPJ:33256439000139
+Unibanco,UnN1,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,33700394000140,UBBR11,CNPJ:33700394000140
+Unibanco Hld,ON,Ação,cancelado,Bovespa,Finanças e Seguros,Bancos,00022034000187,UBHD3,CNPJ:00022034000187
+Unicasa,ON,Ação,ativo,Bovespa,Outros,Indústria de móveis e afins,90441460000148,UCAS3,CNPJ:90441460000148
+Unifique,ON,Ação,ativo,Bovespa,Telecomunicações,Operadoras de telecomunicações a cabo,02255187000108,FIQE3,CNPJ:02255187000108
+Unipar,PNB,Ação,ativo,Bovespa,Química,Indústria química,33958695000178,UNIP6,CNPJ:33958695000178
+Uol,PN,Ação,cancelado,Bovespa,-,Informação,01109184000195,UOLL4,CNPJ:01109184000195
+Uptick,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Empresa de eletricidade, gás e água",02162616000194,UPKP3,CNPJ:02162616000194
+Usiminas,PNA,Ação,ativo,Bovespa,Siderur & Metalur,Transformação de aço em produtos de aço,60894730000105,USIM5,CNPJ:60894730000105
+Usin C Pinto,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de açúcar e produtos de confeitaria,44689123000157,UCOP4,CNPJ:44689123000157
+Vale,ON,Ação,ativo,Bovespa,Mineração,Mineração de metais,33592510000154,VALE3,CNPJ:33592510000154
+Valefert,PN,Ação,cancelado,Bovespa,Química,Indústria de fertilizantes e pesticidas,19443985000158,FFTL4,CNPJ:19443985000158
+Valetron,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,01772313000120,VLTR3B,CNPJ:01772313000120
+Valid,ON,Ação,ativo,Bovespa,Outros,Impressão e atividades auxiliares,33113309000147,VLID3,CNPJ:33113309000147
+Vamos,ON,Ação,ativo,Bovespa,Outros,Serviços de locação e leasing,23373000000132,VAMO3,CNPJ:23373000000132
+Varig Serv,PN,Ação,cancelado,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte aéreo,03634795000188,VPSC4,CNPJ:03634795000188
+Varig Transp,PN,Ação,cancelado,Bovespa,Outros,Couriers e serviço de entrega,03634777000104,VPTA4,CNPJ:03634777000104
+Vasp,ON,Ação,cancelado,Bovespa,Transporte Serviç,Transporte aéreo regular,60703923000131,VASP3,CNPJ:60703923000131
+VBC Energia,ON,Ação,cancelado,Bovespa,Energia Elétrica,"Geração, transmissão e distribuição de energia elétrica",00095147000102,NCNE3,CNPJ:00095147000102
+Veste,ON,Ação,ativo,Bovespa,Textil,Tecelagens,49669856000143,VSTE3,CNPJ:49669856000143
+Vibra,ON,Ação,ativo,Bovespa,Petróleo e Gas,Comércio atacadista de petróleo e produtos de petróleo,34274233000102,VBBR3,CNPJ:34274233000102
+Vicunha Text,PNA,Ação,cancelado,Bovespa,Textil,Tecelagens,07332190000193,VINE5,CNPJ:07332190000193
+Vigor,PN,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de laticínios,61116331000186,VGOR4,CNPJ:61116331000186
+Vigor Food,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de laticínios,13324184000197,VIGR3,CNPJ:13324184000197
+Vitrueduca,ON,Ação,ativo,Bovespa,Outros,Educacão,20512706000140,VTRU3,CNPJ:20512706000140
+Vittia,ON,Ação,ativo,Bovespa,Agro e Pesca,Atividades auxiliares à agricultura,45365558000109,VITT3,CNPJ:45365558000109
+Vivara S.A.,ON,Ação,ativo,Bovespa,Comércio,"Loja de jóias, malas e artigos de couro",33839910000111,VIVA3,CNPJ:33839910000111
+Vivax,UNT N2,Ação,cancelado,Bovespa,Outros,TV a cabo,01402946000147,VVAX11,CNPJ:01402946000147
+Viveo,ON,Ação,ativo,Bovespa,Comércio,Loja de artigos para saúde e cuidados pessoais,12420164000157,VVEO3,CNPJ:12420164000157
+Viver,ON,Ação,ativo,Bovespa,Construção,Construção de edifícios residenciais,67571414000141,VIVR3,CNPJ:67571414000141
+Vivo,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02558074000173,VIVO3,CNPJ:02558074000173
+Votec,PN,Ação,cancelado,Bovespa,Transporte Serviç,Taxi aéreo,33034794000163,VTEC4,CNPJ:33034794000163
+Vulcabras,ON,Ação,ativo,Bovespa,Textil,Indústria de calçados,50926955000142,VULC3,CNPJ:50926955000142
+Wdc Networks,ON,Ação,ativo,Bovespa,Comércio,Comércio eletrônico e corretores,05917486000140,WDCN3,CNPJ:05917486000140
+Weg,ON,Ação,ativo,Bovespa,Máquinas Indust,"Indústria de motores, turbinas e transmissores de energia",84429695000111,WEGE3,CNPJ:84429695000111
+Wembley,ON,Ação,cancelado,Bovespa,Textil,Indústria de roupas de tecido,25329319000196,WMBY3,CNPJ:25329319000196
+Wentex,PN,Ação,cancelado,Bovespa,Textil,Outras indústrias de tecidos,00000000000000,WET4,TICKER:WET4
+Westwing,ON,Ação,ativo,Bovespa,Comércio,Comércio atacadista de bens duráveis,14776142000150,WEST3,CNPJ:14776142000150
+Wetzel S/A,PN,Ação,ativo,Bovespa,Veiculos e peças,Indústria de autopeças,84683671000194,MWET4,CNPJ:84683671000194
+Whirlpool,PN,Ação,ativo,Bovespa,Eletroeletrônicos,Indústria de eletrodomésticos,59105999000186,WHRL4,CNPJ:59105999000186
+White Martins,ON,Ação,cancelado,Bovespa,Química,Indústria química básica,33000571000185,WHMT3,CNPJ:33000571000185
+Wiest,ON,Ação,cancelado,Bovespa,Veiculos e peças,Indústria de autopeças,79313086000162,WISA3,CNPJ:79313086000162
+Wilson Sons,ON,Ação,cancelado,Bovespa,Transporte Serviç,Atividades auxiliares ao transporte aquático,33130691000105,PORT3,CNPJ:33130691000105
+Wiz Co,ON,Ação,ativo,Bovespa,Finanças e Seguros,Corretora de seguros,42278473000103,WIZC3,CNPJ:42278473000103
+Wlm Ind Com,PN,Ação,ativo,Bovespa,Comércio,Concessionárias de outros veículos motorizados,33228024000151,WLMM4,CNPJ:33228024000151
+Wow,ON,Ação,cancelado,Bovespa,Alimentos e Beb,Indústria de bebidas,10603674000134,WWOW3,CNPJ:10603674000134
+Yara Brasil,PN,Ação,cancelado,Bovespa,Química,Indústria de fertilizantes e pesticidas,92660604000182,ILMD4,CNPJ:92660604000182
+Ybyra S/A,ON,Ação,cancelado,Bovespa,Outros,Administração de empresas e empreendimentos,02217319000107,YBRA3,CNPJ:02217319000107
+Yduqs Part,ON,Ação,ativo,Bovespa,Outros,Escola de ensino superior,08807432000110,YDUQ3,CNPJ:08807432000110
+Zain Part,ON,Ação,cancelado,Bovespa,Telecomunicações,Telecomunicações,02363918000120,OPZI3B,CNPJ:02363918000120
+Zamp S.A.,ON,Ação,cancelado,Bovespa,Outros,Restaurantes e outros lugares para comer,13574594000196,ZAMP3,CNPJ:13574594000196
+Zivi,PN,Ação,cancelado,Bovespa,Siderur & Metalur,Indústria de ferramentas de metal não motorizadas e cutelaria,00000000000000,ZIVI4,TICKER:ZIVI4

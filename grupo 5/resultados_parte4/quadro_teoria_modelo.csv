@@ -1,0 +1,121 @@
+alvo,categoria,variavel,importancia_pct,sinal_esperado,spearman_alvo,frac_meses_pos,spearman_shap,sinal_alvo,sinal_modelo,confere
+lnm2b,Lucratividade,aftret_equity_wr,16.021,+,0.418,1.0,0.796,+,+,1.0
+lnm2b,Crescimento,assetgrowth_an,5.725,+,0.26,1.0,0.433,+,+,1.0
+lnm2b,Solvência,debt_capital_wr,5.244,?,0.107,1.0,0.518,+,+,
+lnm2b,Crescimento,salesgrowth_an,4.99,+,0.384,1.0,0.77,+,+,1.0
+lnm2b,Crescimento,inventorygrowth_an,4.315,+,0.199,1.0,0.471,+,+,1.0
+lnm2b,Crescimento,bookequitygrowth_an,4.284,+,0.235,1.0,0.16,+,+,1.0
+lnm2b,Lucratividade,npm_wr,4.147,+,0.322,1.0,0.647,+,+,1.0
+lnm2b,Solidez financeira,lt_ppent_wr,4.011,ambiguo,0.209,1.0,0.628,+,+,
+lnm2b,Crescimento,chbe_an,3.819,+,0.244,1.0,0.435,+,+,1.0
+lnm2b,Tamanho,sale_ac,3.306,-,0.097,1.0,0.214,+,+,0.0
+lnm2b,Lucratividade,roa_wr,3.194,+,0.346,1.0,0.525,+,+,1.0
+lnm2b,Eficiência,sales2inv_an,2.976,?,-0.041,0.111,-0.079,~0,-,
+lnm2b,Liquidez,quick_ratio_wr,2.937,?,0.004,0.556,-0.271,~0,-,
+lnm2b,Solvência,de_ratio_wr,2.86,?,0.076,1.0,0.207,+,+,
+lnm2b,Tamanho,book,2.79,-,0.046,0.889,-0.081,~0,-,1.0
+lnm2b,Eficiência,assetturnover2_an,2.549,?,0.114,1.0,0.607,+,+,
+lnm2b,Crescimento,inventorychange_an,2.453,+,0.171,1.0,0.278,+,+,1.0
+lnm2b,Solidez financeira,curr_debt_wr,2.086,ambiguo,0.066,1.0,0.544,+,+,
+lnm2b,Solvência,debt_at_wr,2.042,?,0.108,1.0,0.515,+,+,
+lnm2b,Liquidez,chcurrentratio_an,1.949,?,0.053,0.778,0.121,+,+,
+lnm2b,Lucratividade,pretret_earnat_wr,1.922,+,0.374,1.0,0.6,+,+,1.0
+lnm2b,Crescimento,chlt_an,1.883,+,0.154,1.0,0.132,+,+,1.0
+lnm2b,Liquidez,curr_ratio_wr,1.847,?,0.011,0.556,-0.117,~0,-,
+lnm2b,Tamanho,assets,1.777,-,0.079,1.0,0.025,+,~0,0.0
+lnm2b,Solidez financeira,invt_act_wr,1.489,ambiguo,-0.054,0.111,-0.219,-,-,
+lnm2b,Eficiência,assetturnover_an,1.426,?,0.04,0.889,0.403,~0,+,
+lnm2b,Tamanho,debt_book_value,1.405,-,0.061,1.0,-0.129,+,-,1.0
+lnm2b,Liquidez,pchquickratio_an,1.402,?,0.035,0.667,-0.004,~0,~0,
+lnm2b,Risco CAPM,CAPMbeta,1.32,-,-0.123,0.0,-0.317,-,-,1.0
+lnm2b,Solidez financeira,debt_ebitda_wr,1.144,ambiguo,-0.079,0.444,-0.08,-,-,
+lnm2b,Solidez financeira,profit_lct_wr,0.844,ambiguo,0.197,1.0,0.191,+,+,
+lnm2b,Lucratividade,ebitda2revenue_an,0.739,+,0.192,1.0,0.006,+,~0,0.0
+lnm2b,Lucratividade,marginch_an,0.565,+,0.356,1.0,-0.034,+,~0,0.0
+lnm2b,Eficiência,pchsale2pchinvt_an,0.396,?,-0.076,0.2,-0.258,-,-,
+lnm2b,Eficiência,pchsales2inv_an,0.144,?,-0.066,0.2,0.094,-,+,
+lnm2b,Eficiência,at_turn_wr,0.0,?,0.04,0.889,,~0,~0,
+lnm2b,Solvência,debt_assets_wr,0.0,?,0.076,1.0,,+,~0,
+lnm2b,Crescimento,investment_an,0.0,+,0.26,1.0,,+,~0,0.0
+lnm2b,Lucratividade,opmbd_wr,0.0,+,0.192,1.0,,+,~0,0.0
+lnm2b,Lucratividade,roe_wr,0.0,+,0.418,1.0,,+,~0,0.0
+lnv2a,Lucratividade,npm_wr,14.482,+,0.434,1.0,0.792,+,+,1.0
+lnv2a,Solvência,de_ratio_wr,9.711,?,-0.338,0.0,-0.789,-,-,
+lnv2a,Lucratividade,aftret_equity_wr,6.685,+,0.352,1.0,0.676,+,+,1.0
+lnv2a,Solvência,debt_at_wr,6.386,?,0.007,0.556,0.776,~0,+,
+lnv2a,Crescimento,assetgrowth_an,5.318,+,0.304,1.0,0.493,+,+,1.0
+lnv2a,Crescimento,chbe_an,4.017,+,0.37,1.0,0.505,+,+,1.0
+lnv2a,Crescimento,salesgrowth_an,3.928,+,0.272,1.0,0.503,+,+,1.0
+lnv2a,Eficiência,assetturnover2_an,3.723,?,0.14,1.0,0.696,+,+,
+lnv2a,Crescimento,inventorygrowth_an,3.481,+,0.193,1.0,0.328,+,+,1.0
+lnv2a,Solidez financeira,curr_debt_wr,3.215,ambiguo,0.172,1.0,0.714,+,+,
+lnv2a,Tamanho,assets,3.161,-,-0.02,0.222,-0.424,~0,-,1.0
+lnv2a,Crescimento,bookequitygrowth_an,3.147,+,0.264,1.0,0.054,+,+,1.0
+lnv2a,Lucratividade,pretret_earnat_wr,2.555,+,0.403,1.0,0.556,+,+,1.0
+lnv2a,Eficiência,sales2inv_an,2.533,?,-0.118,0.0,-0.2,-,-,
+lnv2a,Eficiência,assetturnover_an,2.308,+,0.05,0.889,0.503,+,+,1.0
+lnv2a,Solidez financeira,debt_ebitda_wr,2.064,ambiguo,-0.178,0.0,-0.018,-,~0,
+lnv2a,Tamanho,book,1.991,-,0.114,1.0,0.15,+,+,0.0
+lnv2a,Liquidez,curr_ratio_wr,1.675,?,0.185,1.0,0.107,+,+,
+lnv2a,Liquidez,quick_ratio_wr,1.466,?,0.147,1.0,-0.334,+,-,
+lnv2a,Solidez financeira,lt_ppent_wr,1.46,ambiguo,0.007,0.667,-0.001,~0,~0,
+lnv2a,Tamanho,debt_book_value,1.431,-,-0.033,0.0,0.223,~0,+,0.0
+lnv2a,Crescimento,chlt_an,1.366,+,0.125,1.0,0.092,+,+,1.0
+lnv2a,Crescimento,inventorychange_an,1.36,+,0.162,1.0,0.342,+,+,1.0
+lnv2a,Lucratividade,roa_wr,1.359,+,0.376,1.0,0.455,+,+,1.0
+lnv2a,Solidez financeira,profit_lct_wr,1.226,ambiguo,0.321,1.0,0.383,+,+,
+lnv2a,Liquidez,chcurrentratio_an,1.204,?,0.06,0.667,0.043,+,~0,
+lnv2a,Solvência,debt_capital_wr,1.177,?,-0.218,0.0,0.069,-,+,
+lnv2a,Liquidez,pchquickratio_an,1.093,?,0.052,0.667,-0.026,+,~0,
+lnv2a,Solidez financeira,invt_act_wr,1.078,ambiguo,0.0,0.333,0.149,~0,+,
+lnv2a,Risco CAPM,CAPMbeta,1.023,-,-0.179,0.0,-0.277,-,-,1.0
+lnv2a,Tamanho,sale_ac,1.003,-,-0.007,0.667,-0.196,~0,-,1.0
+lnv2a,Solvência,debt_assets_wr,0.979,?,-0.344,0.0,-0.629,-,-,
+lnv2a,Lucratividade,ebitda2revenue_an,0.792,+,0.235,1.0,0.125,+,+,1.0
+lnv2a,Lucratividade,roe_wr,0.633,+,0.356,1.0,0.376,+,+,1.0
+lnv2a,Lucratividade,marginch_an,0.632,+,0.223,1.0,-0.204,+,-,0.0
+lnv2a,Eficiência,pchsale2pchinvt_an,0.264,?,-0.146,0.0,-0.063,-,-,
+lnv2a,Eficiência,pchsales2inv_an,0.073,?,-0.137,0.0,-0.219,-,-,
+lnv2a,Eficiência,at_turn_wr,0.0,+,0.05,0.889,,+,~0,0.0
+lnv2a,Crescimento,investment_an,0.0,+,0.304,1.0,,+,~0,0.0
+lnv2a,Lucratividade,opmbd_wr,0.0,+,0.235,1.0,,+,~0,0.0
+lnv2s,Lucratividade,npm_wr,21.261,+,0.494,1.0,0.861,+,+,1.0
+lnv2s,Eficiência,assetturnover_an,17.045,-,-0.577,0.0,-0.769,-,-,1.0
+lnv2s,Crescimento,assetgrowth_an,5.0,+,0.334,1.0,0.462,+,+,1.0
+lnv2s,Lucratividade,ebitda2revenue_an,4.492,+,0.596,1.0,0.609,+,+,1.0
+lnv2s,Solvência,de_ratio_wr,4.191,?,-0.251,0.0,-0.819,-,-,
+lnv2s,Solvência,debt_at_wr,3.931,?,0.088,1.0,0.781,+,+,
+lnv2s,Eficiência,assetturnover2_an,3.425,?,-0.503,0.0,-0.468,-,-,
+lnv2s,Eficiência,sales2inv_an,3.182,?,-0.082,0.0,-0.485,-,-,
+lnv2s,Crescimento,inventorygrowth_an,3.103,+,0.269,1.0,0.432,+,+,1.0
+lnv2s,Crescimento,chbe_an,2.859,+,0.31,1.0,0.287,+,+,1.0
+lnv2s,Tamanho,sale_ac,2.358,-,-0.135,0.0,-0.556,-,-,1.0
+lnv2s,Crescimento,bookequitygrowth_an,2.333,+,0.235,1.0,-0.171,+,-,0.0
+lnv2s,Crescimento,chlt_an,1.887,+,0.189,1.0,0.231,+,+,1.0
+lnv2s,Liquidez,curr_ratio_wr,1.86,?,0.153,1.0,-0.111,+,-,
+lnv2s,Crescimento,salesgrowth_an,1.815,+,0.225,0.6,0.688,+,+,1.0
+lnv2s,Solidez financeira,lt_ppent_wr,1.686,ambiguo,-0.039,0.111,-0.276,~0,-,
+lnv2s,Tamanho,debt_book_value,1.644,-,0.124,1.0,0.389,+,+,0.0
+lnv2s,Tamanho,book,1.459,-,0.231,1.0,0.383,+,+,0.0
+lnv2s,Liquidez,chcurrentratio_an,1.428,?,0.137,1.0,0.114,+,+,
+lnv2s,Tamanho,assets,1.39,-,0.134,1.0,-0.263,+,-,1.0
+lnv2s,Lucratividade,aftret_equity_wr,1.362,+,0.137,1.0,-0.274,+,-,0.0
+lnv2s,Solidez financeira,debt_ebitda_wr,1.176,ambiguo,0.029,0.556,0.195,~0,+,
+lnv2s,Liquidez,pchquickratio_an,1.124,?,0.105,1.0,-0.038,+,~0,
+lnv2s,Liquidez,quick_ratio_wr,1.121,?,0.15,1.0,-0.31,+,-,
+lnv2s,Lucratividade,pretret_earnat_wr,1.09,+,0.24,1.0,0.461,+,+,1.0
+lnv2s,Solidez financeira,invt_act_wr,1.001,ambiguo,-0.189,0.0,-0.447,-,-,
+lnv2s,Solidez financeira,curr_debt_wr,0.984,ambiguo,-0.192,0.0,0.18,-,+,
+lnv2s,Solvência,debt_capital_wr,0.949,?,-0.175,0.0,-0.137,-,-,
+lnv2s,Crescimento,inventorychange_an,0.94,+,0.109,1.0,0.134,+,+,1.0
+lnv2s,Risco CAPM,CAPMbeta,0.857,-,0.058,0.889,-0.124,+,-,1.0
+lnv2s,Solidez financeira,profit_lct_wr,0.792,ambiguo,0.356,1.0,0.416,+,+,
+lnv2s,Lucratividade,marginch_an,0.524,+,0.138,1.0,-0.209,+,-,0.0
+lnv2s,Lucratividade,roa_wr,0.487,+,0.162,1.0,0.143,+,+,1.0
+lnv2s,Eficiência,pchsale2pchinvt_an,0.466,?,-0.192,0.0,-0.315,-,-,
+lnv2s,Solvência,debt_assets_wr,0.363,?,-0.255,0.0,-0.582,-,-,
+lnv2s,Eficiência,pchsales2inv_an,0.261,?,-0.183,0.0,-0.421,-,-,
+lnv2s,Lucratividade,roe_wr,0.154,+,0.139,1.0,-0.199,+,-,0.0
+lnv2s,Eficiência,at_turn_wr,0.0,-,-0.577,0.0,,-,~0,0.0
+lnv2s,Crescimento,investment_an,0.0,+,0.334,1.0,,+,~0,0.0
+lnv2s,Lucratividade,opmbd_wr,0.0,+,0.596,1.0,,+,~0,0.0

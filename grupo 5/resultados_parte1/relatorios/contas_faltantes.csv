@@ -1,0 +1,23 @@
+﻿conta_necessaria,quantidade_variaveis_afetadas,variaveis_afetadas
+capx,2,capexgrowth_an; fcf_ocf_wr
+ceq,5,aftret_eq_wr; capital_ratio_wr; chceq_an; equity_invcap_wr; roic_an
+dlc,3,chcl_an; chfnl_an; short_debt_wr
+dltt,7,capital_ratio_wr; chfnl_an; chnccl_an; debt_invcap_wr; dltt_be_wr; int_debt_wr; lt_debt_wr
+dp,4,cf2debt_an; cfm_wr; deprn_an; pchdeprn_an
+financeira,1,cash2assets_an
+ibadj,1,dpr_wr
+ibcom,1,aftret_eq_wr
+icapt,4,aftret_invcapx_wr; debt_invcap_wr; equity_invcap_wr; totdebt_invcap_wr
+industry,1,industry
+mib,1,aftret_invcapx_wr
+mii,1,aftret_invcapx_wr
+nopi,2,ptpm_wr; roic_an
+ocf,4,Accrual_wr; cash_debt_wr; fcf_ocf_wr; ocf_lct_wr
+pi,1,efftax_wr
+pstk,2,capital_ratio_wr; chfnl_an
+spi,1,ptpm_wr
+txditc,1,aftret_invcapx_wr
+txt,1,efftax_wr
+xint,7,aftret_invcapx_wr; int_debt_wr; int_totdebt_wr; intcov_ratio_wr; intcov_wr; profitability_an; ptpm_wr
+xrd,1,rd_sale_wr
+xsga,3,opleverage_an; pchsale2pchxsga_an; profitability_an
